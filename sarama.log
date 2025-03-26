@@ -1,0 +1,1418 @@
+[INFO][ConsumerSaramaMain] 2025/03/26 10:36:14.732038 Starting Sarama consumer in dev environment
+[WARN][KafkaAdmin] 2025/03/26 10:36:14.741040 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:15.743534 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:16.746634 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:17.749537 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:18.754338 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:19.777730 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:20.782767 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:21.785619 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:22.789721 Failed to connect to Kafka: failed to dial: failed to open connection to kafka1:29092: dial tcp 172.19.0.4:29092: connect: connection refused, retrying...
+[WARN][KafkaAdmin] 2025/03/26 10:36:24.722345 Topic test-topic not ready yet: [3] Unknown Topic Or Partition: the request is for a topic or partition that does not exist on this broker
+[WARN][KafkaAdmin] 2025/03/26 10:36:25.733643 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:26.745178 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:27.799444 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:28.808893 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:29.856603 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:30.865899 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:31.891980 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:32.905425 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:33.916194 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:34.922045 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:35.933536 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:36.940945 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:37.947239 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:38.959428 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:39.967501 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:40.975280 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:41.982972 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:43.039058 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:44.057354 Topic test-topic has 1 partitions, expected 50
+[INFO][ConsumerSaramaMain] 2025/03/26 10:36:45.936410 Starting Sarama consumer in dev environment
+[WARN][KafkaAdmin] 2025/03/26 10:36:45.958403 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:46.966515 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:47.971232 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:48.975451 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:49.982928 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:50.985800 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:51.993068 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:53.003917 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:54.011633 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:55.023011 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:56.029370 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:57.034667 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:58.037880 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:36:59.042568 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:37:00.046925 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:37:01.053771 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:37:02.063727 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:37:03.067795 Topic test-topic has 1 partitions, expected 50
+[WARN][KafkaAdmin] 2025/03/26 10:37:04.082006 Topic test-topic has 1 partitions, expected 50
+[INFO][KafkaAdmin] 2025/03/26 10:37:05.118987 Topic test-topic is ready with 50 partitions
+[INFO][ConsumerSaramaMain] 2025/03/26 10:37:05.119265 Starting 50 Sarama consumers
+[INFO][ConsumerSarama-1] 2025/03/26 10:37:05.144886 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-2] 2025/03/26 10:37:05.250627 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-3] 2025/03/26 10:37:05.365598 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-4] 2025/03/26 10:37:05.473608 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:05.578201 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-6] 2025/03/26 10:37:05.715054 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-7] 2025/03/26 10:37:05.818430 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-8] 2025/03/26 10:37:05.921841 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-9] 2025/03/26 10:37:06.025997 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-10] 2025/03/26 10:37:06.130315 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-11] 2025/03/26 10:37:06.235637 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-12] 2025/03/26 10:37:06.343720 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-13] 2025/03/26 10:37:06.446456 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-14] 2025/03/26 10:37:06.550171 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-15] 2025/03/26 10:37:06.652845 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-16] 2025/03/26 10:37:06.756420 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-17] 2025/03/26 10:37:06.862665 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-18] 2025/03/26 10:37:06.968611 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-19] 2025/03/26 10:37:07.070747 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-20] 2025/03/26 10:37:07.178762 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-21] 2025/03/26 10:37:07.288860 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-22] 2025/03/26 10:37:07.394122 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-23] 2025/03/26 10:37:07.498967 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-24] 2025/03/26 10:37:07.603379 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:07.623573 Consumer group session setup
+[INFO][ConsumerSarama-25] 2025/03/26 10:37:07.706972 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-26] 2025/03/26 10:37:07.808904 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-27] 2025/03/26 10:37:07.911218 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-28] 2025/03/26 10:37:08.013496 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-29] 2025/03/26 10:37:08.116186 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-30] 2025/03/26 10:37:08.221268 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-31] 2025/03/26 10:37:08.332499 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:08.389573 Received message: ID=msg-4, Partition=0, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:08.389600 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=5, Topic=test-topic
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:08.389619 Message latency: 1.006921834s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:08.389622 Processing message for 2s...
+[INFO][ConsumerSarama-32] 2025/03/26 10:37:08.438442 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:08.455530 Received message: ID=msg-4, Partition=3, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:08.455546 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=5, Topic=test-topic
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:08.455550 Message latency: 1.004322293s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:08.455552 Processing message for 2s...
+[INFO][ConsumerSarama-33] 2025/03/26 10:37:08.556571 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-34] 2025/03/26 10:37:08.662429 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-35] 2025/03/26 10:37:08.766690 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-36] 2025/03/26 10:37:08.869636 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-37] 2025/03/26 10:37:08.977971 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-38] 2025/03/26 10:37:09.108463 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-39] 2025/03/26 10:37:09.211542 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-40] 2025/03/26 10:37:09.315840 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-41] 2025/03/26 10:37:09.418707 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:09.457971 Received message: ID=msg-5, Partition=4, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:09.457989 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=5, Topic=test-topic
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:09.457993 Message latency: 1.005088292s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:09.457995 Processing message for 2s...
+[INFO][ConsumerSarama-42] 2025/03/26 10:37:09.523251 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-43] 2025/03/26 10:37:09.628945 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-44] 2025/03/26 10:37:09.735732 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-45] 2025/03/26 10:37:09.843165 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-46] 2025/03/26 10:37:09.947812 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-47] 2025/03/26 10:37:10.052253 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-48] 2025/03/26 10:37:10.155256 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-49] 2025/03/26 10:37:10.261398 Sarama consumer started, processing time: 2s
+[INFO][ConsumerSarama-50] 2025/03/26 10:37:10.367328 Sarama consumer started, processing time: 2s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:10.390290 Finished processing message msg-4
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:10.390340 Processed message: ID=msg-4, Partition=0, Offset=4
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:10.390390 Received message: ID=msg-5, Partition=0, Offset=5, Size=1024 bytes
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:10.390398 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=5, Topic=test-topic
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:10.390408 Message latency: 2.003372584s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:10.390421 Processing message for 2s...
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:10.456356 Finished processing message msg-4
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:10.456394 Processed message: ID=msg-4, Partition=3, Offset=0
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:11.459310 Finished processing message msg-5
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:11.459331 Processed message: ID=msg-5, Partition=4, Offset=0
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:12.391573 Finished processing message msg-5
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:12.391631 Processed message: ID=msg-5, Partition=0, Offset=5
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:12.391664 Consumer group session cleanup
+[INFO][ConsumerSarama-20] 2025/03/26 10:37:12.514545 Consumer group session setup
+[INFO][ConsumerSarama-15] 2025/03/26 10:37:12.517791 Consumer group session setup
+[INFO][ConsumerSarama-38] 2025/03/26 10:37:12.517918 Consumer group session setup
+[INFO][ConsumerSarama-23] 2025/03/26 10:37:12.517958 Consumer group session setup
+[INFO][ConsumerSarama-37] 2025/03/26 10:37:12.518137 Consumer group session setup
+[INFO][ConsumerSarama-1] 2025/03/26 10:37:12.518256 Consumer group session setup
+[INFO][ConsumerSarama-6] 2025/03/26 10:37:12.518923 Consumer group session setup
+[INFO][ConsumerSarama-31] 2025/03/26 10:37:12.518996 Consumer group session setup
+[INFO][ConsumerSarama-16] 2025/03/26 10:37:12.519031 Consumer group session setup
+[INFO][ConsumerSarama-18] 2025/03/26 10:37:12.519150 Consumer group session setup
+[INFO][ConsumerSarama-39] 2025/03/26 10:37:12.520372 Consumer group session setup
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:12.520929 Consumer group session setup
+[INFO][ConsumerSarama-7] 2025/03/26 10:37:12.525021 Consumer group session setup
+[INFO][ConsumerSarama-17] 2025/03/26 10:37:12.525143 Consumer group session setup
+[INFO][ConsumerSarama-21] 2025/03/26 10:37:12.525172 Consumer group session setup
+[INFO][ConsumerSarama-43] 2025/03/26 10:37:12.525223 Consumer group session setup
+[INFO][ConsumerSarama-28] 2025/03/26 10:37:12.525298 Consumer group session setup
+[INFO][ConsumerSarama-9] 2025/03/26 10:37:12.525511 Consumer group session setup
+[INFO][ConsumerSarama-11] 2025/03/26 10:37:12.526005 Consumer group session setup
+[INFO][ConsumerSarama-29] 2025/03/26 10:37:12.526395 Consumer group session setup
+[INFO][ConsumerSarama-46] 2025/03/26 10:37:12.527998 Consumer group session setup
+[INFO][ConsumerSarama-47] 2025/03/26 10:37:12.528009 Consumer group session setup
+[INFO][ConsumerSarama-49] 2025/03/26 10:37:12.528011 Consumer group session setup
+[INFO][ConsumerSarama-8] 2025/03/26 10:37:12.528038 Consumer group session setup
+[INFO][ConsumerSarama-50] 2025/03/26 10:37:12.528045 Consumer group session setup
+[INFO][ConsumerSarama-12] 2025/03/26 10:37:12.528063 Consumer group session setup
+[INFO][ConsumerSarama-13] 2025/03/26 10:37:12.528067 Consumer group session setup
+[INFO][ConsumerSarama-33] 2025/03/26 10:37:12.528119 Consumer group session setup
+[INFO][ConsumerSarama-26] 2025/03/26 10:37:12.528140 Consumer group session setup
+[INFO][ConsumerSarama-14] 2025/03/26 10:37:12.528176 Consumer group session setup
+[INFO][ConsumerSarama-42] 2025/03/26 10:37:12.528209 Consumer group session setup
+[INFO][ConsumerSarama-4] 2025/03/26 10:37:12.528217 Consumer group session setup
+[INFO][ConsumerSarama-44] 2025/03/26 10:37:12.528228 Consumer group session setup
+[INFO][ConsumerSarama-19] 2025/03/26 10:37:12.528265 Consumer group session setup
+[INFO][ConsumerSarama-32] 2025/03/26 10:37:12.528267 Consumer group session setup
+[INFO][ConsumerSarama-41] 2025/03/26 10:37:12.530627 Consumer group session setup
+[INFO][ConsumerSarama-35] 2025/03/26 10:37:12.530749 Consumer group session setup
+[INFO][ConsumerSarama-2] 2025/03/26 10:37:12.530814 Consumer group session setup
+[INFO][ConsumerSarama-34] 2025/03/26 10:37:12.530876 Consumer group session setup
+[INFO][ConsumerSarama-10] 2025/03/26 10:37:12.530931 Consumer group session setup
+[INFO][ConsumerSarama-25] 2025/03/26 10:37:12.531188 Consumer group session setup
+[INFO][ConsumerSarama-24] 2025/03/26 10:37:12.531454 Consumer group session setup
+[INFO][ConsumerSarama-27] 2025/03/26 10:37:12.531541 Consumer group session setup
+[INFO][ConsumerSarama-30] 2025/03/26 10:37:12.531722 Consumer group session setup
+[INFO][ConsumerSarama-22] 2025/03/26 10:37:12.532386 Consumer group session setup
+[INFO][ConsumerSarama-48] 2025/03/26 10:37:12.532816 Consumer group session setup
+[INFO][ConsumerSarama-45] 2025/03/26 10:37:12.532915 Consumer group session setup
+[INFO][ConsumerSarama-36] 2025/03/26 10:37:12.534724 Consumer group session setup
+[INFO][ConsumerSarama-3] 2025/03/26 10:37:12.535727 Consumer group session setup
+[INFO][ConsumerSarama-40] 2025/03/26 10:37:12.540418 Consumer group session setup
+[INFO][ConsumerSarama-43] 2025/03/26 10:37:12.636438 Received message: ID=msg-6, Partition=0, Offset=6, Size=1024 bytes
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:12.636453 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=43, Topic=test-topic
+[INFO][ConsumerSarama-43] 2025/03/26 10:37:12.636458 Message latency: 3.247441377s
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:12.636461 Processing message for 2s...
+[INFO][ConsumerSarama-10] 2025/03/26 10:37:13.419361 Received message: ID=msg-9, Partition=2, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:37:13.419397 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=10, Topic=test-topic
+[INFO][ConsumerSarama-10] 2025/03/26 10:37:13.419405 Message latency: 1.008047s
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:37:13.419420 Processing message for 2s...
+[INFO][ConsumerSarama-31] 2025/03/26 10:37:13.470596 Received message: ID=msg-9, Partition=8, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:37:13.470619 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=31, Topic=test-topic
+[INFO][ConsumerSarama-31] 2025/03/26 10:37:13.470623 Message latency: 1.005331459s
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:37:13.470625 Processing message for 2s...
+[INFO][ConsumerSarama-44] 2025/03/26 10:37:14.423733 Received message: ID=msg-10, Partition=3, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:37:14.423759 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=44, Topic=test-topic
+[INFO][ConsumerSarama-44] 2025/03/26 10:37:14.423769 Message latency: 1.006599292s
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:37:14.423775 Processing message for 2s...
+[INFO][ConsumerSarama-42] 2025/03/26 10:37:14.473712 Received message: ID=msg-10, Partition=9, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:37:14.473730 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=42, Topic=test-topic
+[INFO][ConsumerSarama-42] 2025/03/26 10:37:14.473734 Message latency: 1.004557709s
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:37:14.473737 Processing message for 2s...
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:14.637570 Finished processing message msg-6
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:14.637611 Processed message: ID=msg-6, Partition=0, Offset=6
+[INFO][ConsumerSarama-43] 2025/03/26 10:37:14.637622 Received message: ID=msg-7, Partition=0, Offset=7, Size=1024 bytes
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:14.637624 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=43, Topic=test-topic
+[INFO][ConsumerSarama-43] 2025/03/26 10:37:14.637633 Message latency: 4.246128961s
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:14.637637 Processing message for 2s...
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:37:15.421421 Finished processing message msg-9
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:37:15.421469 Processed message: ID=msg-9, Partition=2, Offset=1
+[INFO][ConsumerSarama-14] 2025/03/26 10:37:15.429959 Received message: ID=msg-11, Partition=4, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:37:15.429973 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=14, Topic=test-topic
+[INFO][ConsumerSarama-14] 2025/03/26 10:37:15.429978 Message latency: 1.007817709s
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:37:15.429982 Processing message for 2s...
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:37:15.471296 Finished processing message msg-9
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:37:15.471341 Processed message: ID=msg-9, Partition=8, Offset=0
+[INFO][ConsumerSarama-38] 2025/03/26 10:37:15.478900 Received message: ID=msg-11, Partition=10, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:37:15.478923 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=38, Topic=test-topic
+[INFO][ConsumerSarama-38] 2025/03/26 10:37:15.478929 Message latency: 1.0067605s
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:37:15.478934 Processing message for 2s...
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:37:16.424807 Finished processing message msg-10
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:37:16.424848 Processed message: ID=msg-10, Partition=3, Offset=1
+[INFO][ConsumerSarama-45] 2025/03/26 10:37:16.439630 Received message: ID=msg-12, Partition=5, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:37:16.439837 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=45, Topic=test-topic
+[INFO][ConsumerSarama-45] 2025/03/26 10:37:16.439844 Message latency: 1.011050209s
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:37:16.439846 Processing message for 2s...
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:37:16.474809 Finished processing message msg-10
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:37:16.474856 Processed message: ID=msg-10, Partition=9, Offset=0
+[INFO][ConsumerSarama-13] 2025/03/26 10:37:16.482858 Received message: ID=msg-12, Partition=11, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:37:16.482871 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=13, Topic=test-topic
+[INFO][ConsumerSarama-13] 2025/03/26 10:37:16.482874 Message latency: 1.005402s
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:37:16.482876 Processing message for 2s...
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:16.639546 Finished processing message msg-7
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:16.639610 Processed message: ID=msg-7, Partition=0, Offset=7
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:37:17.430240 Finished processing message msg-11
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:37:17.430497 Processed message: ID=msg-11, Partition=4, Offset=1
+[INFO][ConsumerSarama-19] 2025/03/26 10:37:17.446955 Received message: ID=msg-13, Partition=6, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:37:17.446979 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=19, Topic=test-topic
+[INFO][ConsumerSarama-19] 2025/03/26 10:37:17.446998 Message latency: 1.009341251s
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:37:17.447005 Processing message for 2s...
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:37:17.479649 Finished processing message msg-11
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:37:17.479698 Processed message: ID=msg-11, Partition=10, Offset=0
+[INFO][ConsumerSarama-27] 2025/03/26 10:37:17.490803 Received message: ID=msg-13, Partition=12, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:37:17.490819 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=27, Topic=test-topic
+[INFO][ConsumerSarama-27] 2025/03/26 10:37:17.490822 Message latency: 1.008771167s
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:37:17.490824 Processing message for 2s...
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:37:18.440680 Finished processing message msg-12
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:37:18.441234 Processed message: ID=msg-12, Partition=5, Offset=1
+[INFO][ConsumerSarama-30] 2025/03/26 10:37:18.451475 Received message: ID=msg-14, Partition=7, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:37:18.451493 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=30, Topic=test-topic
+[INFO][ConsumerSarama-30] 2025/03/26 10:37:18.451501 Message latency: 1.005956209s
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:37:18.451504 Processing message for 2s...
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:37:18.483605 Finished processing message msg-12
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:37:18.483630 Processed message: ID=msg-12, Partition=11, Offset=0
+[INFO][ConsumerSarama-18] 2025/03/26 10:37:18.492152 Received message: ID=msg-14, Partition=13, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:37:18.492185 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=18, Topic=test-topic
+[INFO][ConsumerSarama-18] 2025/03/26 10:37:18.492201 Message latency: 1.003353668s
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:37:18.492230 Processing message for 2s...
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:37:19.448296 Finished processing message msg-13
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:37:19.448312 Processed message: ID=msg-13, Partition=6, Offset=1
+[INFO][ConsumerSarama-31] 2025/03/26 10:37:19.454206 Received message: ID=msg-15, Partition=8, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:37:19.454218 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=31, Topic=test-topic
+[INFO][ConsumerSarama-31] 2025/03/26 10:37:19.454220 Message latency: 1.003301709s
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:37:19.454225 Processing message for 2s...
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:37:19.492337 Finished processing message msg-13
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:37:19.492377 Processed message: ID=msg-13, Partition=12, Offset=0
+[INFO][ConsumerSarama-26] 2025/03/26 10:37:19.494323 Received message: ID=msg-15, Partition=14, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:37:19.494336 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=26, Topic=test-topic
+[INFO][ConsumerSarama-26] 2025/03/26 10:37:19.494341 Message latency: 1.003223292s
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:37:19.494345 Processing message for 2s...
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:37:20.453226 Finished processing message msg-14
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:37:20.453298 Processed message: ID=msg-14, Partition=7, Offset=1
+[INFO][ConsumerSarama-42] 2025/03/26 10:37:20.456599 Received message: ID=msg-16, Partition=9, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:37:20.456622 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=42, Topic=test-topic
+[INFO][ConsumerSarama-42] 2025/03/26 10:37:20.456625 Message latency: 1.002951459s
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:37:20.456632 Processing message for 2s...
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:37:20.493349 Finished processing message msg-14
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:37:20.493383 Processed message: ID=msg-14, Partition=13, Offset=0
+[INFO][ConsumerSarama-34] 2025/03/26 10:37:20.497235 Received message: ID=msg-16, Partition=15, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:37:20.497246 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=34, Topic=test-topic
+[INFO][ConsumerSarama-34] 2025/03/26 10:37:20.497249 Message latency: 1.003363042s
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:37:20.497251 Processing message for 2s...
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:37:21.454613 Finished processing message msg-15
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:37:21.454695 Processed message: ID=msg-15, Partition=8, Offset=1
+[INFO][ConsumerSarama-38] 2025/03/26 10:37:21.465328 Received message: ID=msg-17, Partition=10, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:37:21.465354 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=38, Topic=test-topic
+[INFO][ConsumerSarama-38] 2025/03/26 10:37:21.465371 Message latency: 1.009477917s
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:37:21.465378 Processing message for 2s...
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:37:21.494514 Finished processing message msg-15
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:37:21.494538 Processed message: ID=msg-15, Partition=14, Offset=0
+[INFO][ConsumerSarama-3] 2025/03/26 10:37:21.500315 Received message: ID=msg-17, Partition=16, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:37:21.500332 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=3, Topic=test-topic
+[INFO][ConsumerSarama-3] 2025/03/26 10:37:21.500340 Message latency: 1.003429459s
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:37:21.500344 Processing message for 2s...
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:37:22.457203 Finished processing message msg-16
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:37:22.457223 Processed message: ID=msg-16, Partition=9, Offset=1
+[INFO][ConsumerSarama-13] 2025/03/26 10:37:22.468154 Received message: ID=msg-18, Partition=11, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:37:22.468167 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=13, Topic=test-topic
+[INFO][ConsumerSarama-13] 2025/03/26 10:37:22.468170 Message latency: 1.004176084s
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:37:22.468178 Processing message for 2s...
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:37:22.498752 Finished processing message msg-16
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:37:22.498775 Processed message: ID=msg-16, Partition=15, Offset=0
+[INFO][ConsumerSarama-16] 2025/03/26 10:37:22.503966 Received message: ID=msg-18, Partition=17, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:37:22.503994 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=16, Topic=test-topic
+[INFO][ConsumerSarama-16] 2025/03/26 10:37:22.504000 Message latency: 1.004124917s
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:37:22.504006 Processing message for 2s...
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:37:23.466324 Finished processing message msg-17
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:37:23.466379 Processed message: ID=msg-17, Partition=10, Offset=1
+[INFO][ConsumerSarama-27] 2025/03/26 10:37:23.471481 Received message: ID=msg-19, Partition=12, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:37:23.471520 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=27, Topic=test-topic
+[INFO][ConsumerSarama-27] 2025/03/26 10:37:23.471527 Message latency: 1.003994542s
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:37:23.471550 Processing message for 2s...
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:37:23.501212 Finished processing message msg-17
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:37:23.501246 Processed message: ID=msg-17, Partition=16, Offset=0
+[INFO][ConsumerSarama-32] 2025/03/26 10:37:23.507699 Received message: ID=msg-19, Partition=18, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:37:23.507726 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=32, Topic=test-topic
+[INFO][ConsumerSarama-32] 2025/03/26 10:37:23.507733 Message latency: 1.003898292s
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:37:23.507744 Processing message for 2s...
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:37:24.468553 Finished processing message msg-18
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:37:24.468590 Processed message: ID=msg-18, Partition=11, Offset=1
+[INFO][ConsumerSarama-18] 2025/03/26 10:37:24.476742 Received message: ID=msg-20, Partition=13, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:37:24.476766 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=18, Topic=test-topic
+[INFO][ConsumerSarama-18] 2025/03/26 10:37:24.476773 Message latency: 1.006086542s
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:37:24.476776 Processing message for 2s...
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:37:24.504475 Finished processing message msg-18
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:37:24.504496 Processed message: ID=msg-18, Partition=17, Offset=0
+[INFO][ConsumerSarama-12] 2025/03/26 10:37:24.512504 Received message: ID=msg-20, Partition=19, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:37:24.512518 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=12, Topic=test-topic
+[INFO][ConsumerSarama-12] 2025/03/26 10:37:24.512522 Message latency: 1.004787417s
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:37:24.512525 Processing message for 2s...
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:37:25.472329 Finished processing message msg-19
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:37:25.472372 Processed message: ID=msg-19, Partition=12, Offset=1
+[INFO][ConsumerSarama-26] 2025/03/26 10:37:25.480920 Received message: ID=msg-21, Partition=14, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:37:25.480957 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=26, Topic=test-topic
+[INFO][ConsumerSarama-26] 2025/03/26 10:37:25.480964 Message latency: 1.006106834s
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:37:25.480970 Processing message for 2s...
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:37:25.509421 Finished processing message msg-19
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:37:25.509453 Processed message: ID=msg-19, Partition=18, Offset=0
+[INFO][ConsumerSarama-28] 2025/03/26 10:37:25.517605 Received message: ID=msg-21, Partition=20, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:37:25.517628 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=28, Topic=test-topic
+[INFO][ConsumerSarama-28] 2025/03/26 10:37:25.517635 Message latency: 1.006125084s
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:37:25.517641 Processing message for 2s...
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:37:26.477174 Finished processing message msg-20
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:37:26.477224 Processed message: ID=msg-20, Partition=13, Offset=1
+[INFO][ConsumerSarama-34] 2025/03/26 10:37:26.487427 Received message: ID=msg-22, Partition=15, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:37:26.487447 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=34, Topic=test-topic
+[INFO][ConsumerSarama-34] 2025/03/26 10:37:26.487453 Message latency: 1.007490333s
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:37:26.487457 Processing message for 2s...
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:37:26.512580 Finished processing message msg-20
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:37:26.512698 Processed message: ID=msg-20, Partition=19, Offset=0
+[INFO][ConsumerSarama-40] 2025/03/26 10:37:26.521664 Received message: ID=msg-22, Partition=21, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:37:26.521697 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=40, Topic=test-topic
+[INFO][ConsumerSarama-40] 2025/03/26 10:37:26.521704 Message latency: 1.005023875s
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:37:26.521709 Processing message for 2s...
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:37:27.481329 Finished processing message msg-21
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:37:27.481377 Processed message: ID=msg-21, Partition=14, Offset=1
+[INFO][ConsumerSarama-3] 2025/03/26 10:37:27.496573 Received message: ID=msg-23, Partition=16, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:37:27.496602 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=3, Topic=test-topic
+[INFO][ConsumerSarama-3] 2025/03/26 10:37:27.496608 Message latency: 1.011891375s
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:37:27.496613 Processing message for 2s...
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:37:27.519378 Finished processing message msg-21
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:37:27.519401 Processed message: ID=msg-21, Partition=20, Offset=0
+[INFO][ConsumerSarama-46] 2025/03/26 10:37:27.526176 Received message: ID=msg-23, Partition=22, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:37:27.526288 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=46, Topic=test-topic
+[INFO][ConsumerSarama-46] 2025/03/26 10:37:27.526307 Message latency: 1.005730501s
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:37:27.526312 Processing message for 2s...
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:37:28.488304 Finished processing message msg-22
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:37:28.488381 Processed message: ID=msg-22, Partition=15, Offset=1
+[INFO][ConsumerSarama-16] 2025/03/26 10:37:28.502235 Received message: ID=msg-24, Partition=17, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:37:28.502263 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=16, Topic=test-topic
+[INFO][ConsumerSarama-16] 2025/03/26 10:37:28.502269 Message latency: 1.00612675s
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:37:28.502274 Processing message for 2s...
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:37:28.523351 Finished processing message msg-22
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:37:28.523378 Processed message: ID=msg-22, Partition=21, Offset=0
+[INFO][ConsumerSarama-33] 2025/03/26 10:37:28.529824 Received message: ID=msg-24, Partition=23, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:37:28.529865 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=33, Topic=test-topic
+[INFO][ConsumerSarama-33] 2025/03/26 10:37:28.529873 Message latency: 1.004593208s
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:37:28.529883 Processing message for 2s...
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:37:29.497286 Finished processing message msg-23
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:37:29.497385 Processed message: ID=msg-23, Partition=16, Offset=1
+[INFO][ConsumerSarama-32] 2025/03/26 10:37:29.505535 Received message: ID=msg-25, Partition=18, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:37:29.505559 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=32, Topic=test-topic
+[INFO][ConsumerSarama-32] 2025/03/26 10:37:29.505565 Message latency: 1.004763s
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:37:29.505571 Processing message for 2s...
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:37:29.528228 Finished processing message msg-23
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:37:29.528261 Processed message: ID=msg-23, Partition=22, Offset=0
+[INFO][ConsumerSarama-15] 2025/03/26 10:37:29.532232 Received message: ID=msg-25, Partition=24, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:37:29.532251 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=15, Topic=test-topic
+[INFO][ConsumerSarama-15] 2025/03/26 10:37:29.532256 Message latency: 1.004016375s
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:37:29.532260 Processing message for 2s...
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:37:30.503374 Finished processing message msg-24
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:37:30.503420 Processed message: ID=msg-24, Partition=17, Offset=1
+[INFO][ConsumerSarama-12] 2025/03/26 10:37:30.511802 Received message: ID=msg-26, Partition=19, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:37:30.511819 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=12, Topic=test-topic
+[INFO][ConsumerSarama-12] 2025/03/26 10:37:30.511829 Message latency: 1.005954667s
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:37:30.511835 Processing message for 2s...
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:37:30.530256 Finished processing message msg-24
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:37:30.530289 Processed message: ID=msg-24, Partition=23, Offset=0
+[INFO][ConsumerSarama-25] 2025/03/26 10:37:30.534627 Received message: ID=msg-26, Partition=25, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:37:30.534642 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=25, Topic=test-topic
+[INFO][ConsumerSarama-25] 2025/03/26 10:37:30.534646 Message latency: 1.003074208s
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:37:30.534650 Processing message for 2s...
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:37:31.506828 Finished processing message msg-25
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:37:31.506886 Processed message: ID=msg-25, Partition=18, Offset=1
+[INFO][ConsumerSarama-28] 2025/03/26 10:37:31.518492 Received message: ID=msg-27, Partition=20, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:37:31.518526 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=28, Topic=test-topic
+[INFO][ConsumerSarama-28] 2025/03/26 10:37:31.518533 Message latency: 1.007106542s
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:37:31.518538 Processing message for 2s...
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:37:31.532383 Finished processing message msg-25
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:37:31.532420 Processed message: ID=msg-25, Partition=24, Offset=0
+[INFO][ConsumerSarama-2] 2025/03/26 10:37:31.538508 Received message: ID=msg-27, Partition=26, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:37:31.538544 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=2, Topic=test-topic
+[INFO][ConsumerSarama-2] 2025/03/26 10:37:31.538551 Message latency: 1.004533501s
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:37:31.538558 Processing message for 2s...
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:37:32.512726 Finished processing message msg-26
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:37:32.512787 Processed message: ID=msg-26, Partition=19, Offset=1
+[INFO][ConsumerSarama-40] 2025/03/26 10:37:32.522781 Received message: ID=msg-28, Partition=21, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:37:32.522846 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=40, Topic=test-topic
+[INFO][ConsumerSarama-40] 2025/03/26 10:37:32.522855 Message latency: 1.0060535s
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:37:32.522861 Processing message for 2s...
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:37:32.536368 Finished processing message msg-26
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:37:32.536398 Processed message: ID=msg-26, Partition=25, Offset=0
+[INFO][ConsumerSarama-39] 2025/03/26 10:37:32.542873 Received message: ID=msg-28, Partition=27, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:37:32.542893 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=39, Topic=test-topic
+[INFO][ConsumerSarama-39] 2025/03/26 10:37:32.542897 Message latency: 1.005141292s
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:37:32.542902 Processing message for 2s...
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:37:33.519454 Finished processing message msg-27
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:37:33.519528 Processed message: ID=msg-27, Partition=20, Offset=1
+[INFO][ConsumerSarama-46] 2025/03/26 10:37:33.527812 Received message: ID=msg-29, Partition=22, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:37:33.527842 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=46, Topic=test-topic
+[INFO][ConsumerSarama-46] 2025/03/26 10:37:33.527851 Message latency: 1.006079667s
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:37:33.527863 Processing message for 2s...
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:37:33.539342 Finished processing message msg-27
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:37:33.539375 Processed message: ID=msg-27, Partition=26, Offset=0
+[INFO][ConsumerSarama-29] 2025/03/26 10:37:33.547140 Received message: ID=msg-29, Partition=28, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:37:33.547204 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=29, Topic=test-topic
+[INFO][ConsumerSarama-29] 2025/03/26 10:37:33.547219 Message latency: 1.005216208s
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:37:33.547225 Processing message for 2s...
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:37:34.524389 Finished processing message msg-28
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:37:34.524438 Processed message: ID=msg-28, Partition=21, Offset=1
+[INFO][ConsumerSarama-33] 2025/03/26 10:37:34.530978 Received message: ID=msg-30, Partition=23, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:37:34.531007 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=33, Topic=test-topic
+[INFO][ConsumerSarama-33] 2025/03/26 10:37:34.531014 Message latency: 1.004105667s
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:37:34.531018 Processing message for 2s...
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:37:34.547337 Finished processing message msg-28
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:37:34.547356 Processed message: ID=msg-28, Partition=27, Offset=0
+[INFO][ConsumerSarama-41] 2025/03/26 10:37:34.551167 Received message: ID=msg-30, Partition=29, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:37:34.551181 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=41, Topic=test-topic
+[INFO][ConsumerSarama-41] 2025/03/26 10:37:34.551184 Message latency: 1.004930584s
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:37:34.551186 Processing message for 2s...
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:37:35.528234 Finished processing message msg-29
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:37:35.528255 Processed message: ID=msg-29, Partition=22, Offset=1
+[INFO][ConsumerSarama-15] 2025/03/26 10:37:35.531941 Received message: ID=msg-31, Partition=24, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:37:35.531969 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=15, Topic=test-topic
+[INFO][ConsumerSarama-15] 2025/03/26 10:37:35.531977 Message latency: 1.002163417s
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:37:35.531984 Processing message for 2s...
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:37:35.548304 Finished processing message msg-29
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:37:35.548322 Processed message: ID=msg-29, Partition=28, Offset=0
+[INFO][ConsumerSarama-49] 2025/03/26 10:37:35.553796 Received message: ID=msg-31, Partition=30, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:37:35.553809 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=49, Topic=test-topic
+[INFO][ConsumerSarama-49] 2025/03/26 10:37:35.553811 Message latency: 1.001626584s
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:37:35.553814 Processing message for 2s...
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:37:36.532308 Finished processing message msg-30
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:37:36.532339 Processed message: ID=msg-30, Partition=23, Offset=1
+[INFO][ConsumerSarama-25] 2025/03/26 10:37:36.537308 Received message: ID=msg-32, Partition=25, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:37:36.537335 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=25, Topic=test-topic
+[INFO][ConsumerSarama-25] 2025/03/26 10:37:36.537348 Message latency: 1.005742418s
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:37:36.537357 Processing message for 2s...
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:37:36.551295 Finished processing message msg-30
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:37:36.551329 Processed message: ID=msg-30, Partition=29, Offset=0
+[INFO][ConsumerSarama-4] 2025/03/26 10:37:36.557963 Received message: ID=msg-32, Partition=31, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:37:36.557997 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=4, Topic=test-topic
+[INFO][ConsumerSarama-4] 2025/03/26 10:37:36.558003 Message latency: 1.004538084s
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:37:36.558007 Processing message for 2s...
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:37:37.534459 Finished processing message msg-31
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:37:37.534512 Processed message: ID=msg-31, Partition=24, Offset=1
+[INFO][ConsumerSarama-2] 2025/03/26 10:37:37.542700 Received message: ID=msg-33, Partition=26, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:37:37.542724 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=2, Topic=test-topic
+[INFO][ConsumerSarama-2] 2025/03/26 10:37:37.542730 Message latency: 1.006801694s
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:37:37.542737 Processing message for 2s...
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:37:37.555496 Finished processing message msg-31
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:37:37.555530 Processed message: ID=msg-31, Partition=30, Offset=0
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:37.562850 Received message: ID=msg-33, Partition=32, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:37.562869 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=5, Topic=test-topic
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:37.562875 Message latency: 1.005919611s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:37.562880 Processing message for 2s...
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:37:38.539429 Finished processing message msg-32
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:37:38.539471 Processed message: ID=msg-32, Partition=25, Offset=1
+[INFO][ConsumerSarama-39] 2025/03/26 10:37:38.547328 Received message: ID=msg-34, Partition=27, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:37:38.547527 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=39, Topic=test-topic
+[INFO][ConsumerSarama-39] 2025/03/26 10:37:38.547537 Message latency: 1.005819542s
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:37:38.547544 Processing message for 2s...
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:37:38.559555 Finished processing message msg-32
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:37:38.559582 Processed message: ID=msg-32, Partition=31, Offset=0
+[INFO][ConsumerSarama-35] 2025/03/26 10:37:38.565057 Received message: ID=msg-34, Partition=33, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:37:38.565126 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=35, Topic=test-topic
+[INFO][ConsumerSarama-35] 2025/03/26 10:37:38.565193 Message latency: 1.003779167s
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:37:38.565230 Processing message for 2s...
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:37:39.543567 Finished processing message msg-33
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:37:39.543606 Processed message: ID=msg-33, Partition=26, Offset=1
+[INFO][ConsumerSarama-29] 2025/03/26 10:37:39.552296 Received message: ID=msg-35, Partition=28, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:37:39.552312 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=29, Topic=test-topic
+[INFO][ConsumerSarama-29] 2025/03/26 10:37:39.552317 Message latency: 1.006289458s
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:37:39.552322 Processing message for 2s...
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:39.563547 Finished processing message msg-33
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:39.563574 Processed message: ID=msg-33, Partition=32, Offset=0
+[INFO][ConsumerSarama-6] 2025/03/26 10:37:39.570153 Received message: ID=msg-35, Partition=34, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:37:39.570168 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=6, Topic=test-topic
+[INFO][ConsumerSarama-6] 2025/03/26 10:37:39.570173 Message latency: 1.005581084s
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:37:39.570178 Processing message for 2s...
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:37:40.548742 Finished processing message msg-34
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:37:40.548778 Processed message: ID=msg-34, Partition=27, Offset=1
+[INFO][ConsumerSarama-41] 2025/03/26 10:37:40.556313 Received message: ID=msg-36, Partition=29, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:37:40.556386 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=41, Topic=test-topic
+[INFO][ConsumerSarama-41] 2025/03/26 10:37:40.556394 Message latency: 1.005092209s
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:37:40.556398 Processing message for 2s...
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:37:40.565436 Finished processing message msg-34
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:37:40.565463 Processed message: ID=msg-34, Partition=33, Offset=0
+[INFO][ConsumerSarama-9] 2025/03/26 10:37:40.572350 Received message: ID=msg-36, Partition=35, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:37:40.572371 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=9, Topic=test-topic
+[INFO][ConsumerSarama-9] 2025/03/26 10:37:40.572376 Message latency: 1.003398334s
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:37:40.572380 Processing message for 2s...
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:37:41.552734 Finished processing message msg-35
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:37:41.552770 Processed message: ID=msg-35, Partition=28, Offset=1
+[INFO][ConsumerSarama-49] 2025/03/26 10:37:41.560761 Received message: ID=msg-37, Partition=30, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:37:41.560792 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=49, Topic=test-topic
+[INFO][ConsumerSarama-49] 2025/03/26 10:37:41.560800 Message latency: 1.005987917s
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:37:41.560807 Processing message for 2s...
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:37:41.571327 Finished processing message msg-35
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:37:41.571360 Processed message: ID=msg-35, Partition=34, Offset=0
+[INFO][ConsumerSarama-47] 2025/03/26 10:37:41.575686 Received message: ID=msg-37, Partition=36, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:37:41.575710 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=47, Topic=test-topic
+[INFO][ConsumerSarama-47] 2025/03/26 10:37:41.575715 Message latency: 1.003930458s
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:37:41.575719 Processing message for 2s...
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:37:42.556552 Finished processing message msg-36
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:37:42.556597 Processed message: ID=msg-36, Partition=29, Offset=1
+[INFO][ConsumerSarama-4] 2025/03/26 10:37:42.565271 Received message: ID=msg-38, Partition=31, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:37:42.565335 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=4, Topic=test-topic
+[INFO][ConsumerSarama-4] 2025/03/26 10:37:42.565348 Message latency: 1.00631925s
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:37:42.565354 Processing message for 2s...
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:37:42.573491 Finished processing message msg-36
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:37:42.573506 Processed message: ID=msg-36, Partition=35, Offset=0
+[INFO][ConsumerSarama-36] 2025/03/26 10:37:42.577551 Received message: ID=msg-38, Partition=37, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:37:42.577562 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=36, Topic=test-topic
+[INFO][ConsumerSarama-36] 2025/03/26 10:37:42.577565 Message latency: 1.002680292s
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:37:42.577568 Processing message for 2s...
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:37:43.561806 Finished processing message msg-37
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:37:43.561913 Processed message: ID=msg-37, Partition=30, Offset=1
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:43.574828 Received message: ID=msg-39, Partition=32, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:43.575365 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=5, Topic=test-topic
+[INFO][ConsumerSarama-5] 2025/03/26 10:37:43.575462 Message latency: 1.011497292s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:43.575502 Processing message for 2s...
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:37:43.576500 Finished processing message msg-37
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:37:43.576527 Processed message: ID=msg-37, Partition=36, Offset=0
+[INFO][ConsumerSarama-22] 2025/03/26 10:37:43.580948 Received message: ID=msg-39, Partition=38, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:37:43.581036 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=22, Topic=test-topic
+[INFO][ConsumerSarama-22] 2025/03/26 10:37:43.581045 Message latency: 1.004118167s
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:37:43.581050 Processing message for 2s...
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:37:44.565480 Finished processing message msg-38
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:37:44.565530 Processed message: ID=msg-38, Partition=31, Offset=1
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:37:44.578453 Finished processing message msg-38
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:37:44.578522 Processed message: ID=msg-38, Partition=37, Offset=0
+[INFO][ConsumerSarama-35] 2025/03/26 10:37:44.581394 Received message: ID=msg-40, Partition=33, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:37:44.581414 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=35, Topic=test-topic
+[INFO][ConsumerSarama-35] 2025/03/26 10:37:44.581423 Message latency: 1.009516667s
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:37:44.581427 Processing message for 2s...
+[INFO][ConsumerSarama-17] 2025/03/26 10:37:44.585597 Received message: ID=msg-40, Partition=39, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:37:44.585620 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=17, Topic=test-topic
+[INFO][ConsumerSarama-17] 2025/03/26 10:37:44.585628 Message latency: 1.005483042s
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:37:44.585636 Processing message for 2s...
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:45.577339 Finished processing message msg-39
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:37:45.577379 Processed message: ID=msg-39, Partition=32, Offset=1
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:37:45.582280 Finished processing message msg-39
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:37:45.582438 Processed message: ID=msg-39, Partition=38, Offset=0
+[INFO][ConsumerSarama-8] 2025/03/26 10:37:45.593723 Received message: ID=msg-41, Partition=40, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:37:45.593732 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=8, Topic=test-topic
+[INFO][ConsumerSarama-8] 2025/03/26 10:37:45.593735 Message latency: 1.008843834s
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:37:45.593737 Processing message for 2s...
+[INFO][ConsumerSarama-6] 2025/03/26 10:37:45.595094 Received message: ID=msg-41, Partition=34, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:37:45.601449 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=6, Topic=test-topic
+[INFO][ConsumerSarama-6] 2025/03/26 10:37:45.601470 Message latency: 1.020374001s
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:37:45.601486 Processing message for 2s...
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:37:46.582552 Finished processing message msg-40
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:37:46.582712 Processed message: ID=msg-40, Partition=33, Offset=1
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:37:46.585768 Finished processing message msg-40
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:37:46.585821 Processed message: ID=msg-40, Partition=39, Offset=0
+[INFO][ConsumerSarama-9] 2025/03/26 10:37:46.603483 Received message: ID=msg-42, Partition=35, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:37:46.603505 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=9, Topic=test-topic
+[INFO][ConsumerSarama-9] 2025/03/26 10:37:46.603517 Message latency: 1.010189251s
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:37:46.603523 Processing message for 2s...
+[INFO][ConsumerSarama-24] 2025/03/26 10:37:46.607134 Received message: ID=msg-42, Partition=41, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:37:46.607151 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=24, Topic=test-topic
+[INFO][ConsumerSarama-24] 2025/03/26 10:37:46.607156 Message latency: 1.0061905s
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:37:46.607160 Processing message for 2s...
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:37:47.594423 Finished processing message msg-41
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:37:47.594469 Processed message: ID=msg-41, Partition=40, Offset=0
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:37:47.602581 Finished processing message msg-41
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:37:47.602615 Processed message: ID=msg-41, Partition=34, Offset=1
+[INFO][ConsumerSarama-47] 2025/03/26 10:37:47.610803 Received message: ID=msg-43, Partition=36, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:37:47.610844 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=47, Topic=test-topic
+[INFO][ConsumerSarama-47] 2025/03/26 10:37:47.610855 Message latency: 1.007849917s
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:37:47.610862 Processing message for 2s...
+[INFO][ConsumerSarama-7] 2025/03/26 10:37:47.611313 Received message: ID=msg-43, Partition=42, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:37:47.611341 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=7, Topic=test-topic
+[INFO][ConsumerSarama-7] 2025/03/26 10:37:47.611347 Message latency: 1.004589501s
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:37:47.611353 Processing message for 2s...
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:37:48.604466 Finished processing message msg-42
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:37:48.604511 Processed message: ID=msg-42, Partition=35, Offset=1
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:37:48.607430 Finished processing message msg-42
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:37:48.607513 Processed message: ID=msg-42, Partition=41, Offset=0
+[INFO][ConsumerSarama-36] 2025/03/26 10:37:48.614925 Received message: ID=msg-44, Partition=37, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:37:48.614946 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=36, Topic=test-topic
+[INFO][ConsumerSarama-36] 2025/03/26 10:37:48.614951 Message latency: 1.0056115s
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:37:48.614955 Processing message for 2s...
+[INFO][ConsumerSarama-1] 2025/03/26 10:37:48.615032 Received message: ID=msg-44, Partition=43, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:37:48.615042 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=1, Topic=test-topic
+[INFO][ConsumerSarama-1] 2025/03/26 10:37:48.615044 Message latency: 1.004859209s
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:37:48.615046 Processing message for 2s...
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:37:49.611367 Finished processing message msg-43
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:37:49.611385 Processed message: ID=msg-43, Partition=36, Offset=1
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:37:49.611394 Finished processing message msg-43
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:37:49.611400 Processed message: ID=msg-43, Partition=42, Offset=0
+[INFO][ConsumerSarama-22] 2025/03/26 10:37:49.617346 Received message: ID=msg-45, Partition=38, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:37:49.617377 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=22, Topic=test-topic
+[INFO][ConsumerSarama-22] 2025/03/26 10:37:49.617386 Message latency: 1.0035475s
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:37:49.617390 Processing message for 2s...
+[INFO][ConsumerSarama-48] 2025/03/26 10:37:49.617406 Received message: ID=msg-45, Partition=44, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:37:49.617410 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=48, Topic=test-topic
+[INFO][ConsumerSarama-48] 2025/03/26 10:37:49.617413 Message latency: 1.003763042s
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:37:49.617417 Processing message for 2s...
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:37:50.615509 Finished processing message msg-44
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:37:50.615549 Finished processing message msg-44
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:37:50.615554 Processed message: ID=msg-44, Partition=43, Offset=0
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:37:50.615563 Processed message: ID=msg-44, Partition=37, Offset=1
+[INFO][ConsumerSarama-17] 2025/03/26 10:37:50.622873 Received message: ID=msg-46, Partition=39, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:37:50.622901 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=17, Topic=test-topic
+[INFO][ConsumerSarama-17] 2025/03/26 10:37:50.622906 Message latency: 1.006100376s
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:37:50.622910 Processing message for 2s...
+[INFO][ConsumerSarama-37] 2025/03/26 10:37:50.622923 Received message: ID=msg-46, Partition=45, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:37:50.622925 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=37, Topic=test-topic
+[INFO][ConsumerSarama-37] 2025/03/26 10:37:50.622928 Message latency: 1.006091875s
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:37:50.622929 Processing message for 2s...
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:37:51.617444 Finished processing message msg-45
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:37:51.617479 Processed message: ID=msg-45, Partition=38, Offset=1
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:37:51.617516 Finished processing message msg-45
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:37:51.617553 Processed message: ID=msg-45, Partition=44, Offset=0
+[INFO][ConsumerSarama-8] 2025/03/26 10:37:51.628402 Received message: ID=msg-47, Partition=40, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:37:51.628474 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=8, Topic=test-topic
+[INFO][ConsumerSarama-8] 2025/03/26 10:37:51.628521 Message latency: 1.006809208s
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:37:51.628538 Processing message for 2s...
+[INFO][ConsumerSarama-11] 2025/03/26 10:37:51.629346 Received message: ID=msg-47, Partition=46, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:37:51.629361 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=11, Topic=test-topic
+[INFO][ConsumerSarama-11] 2025/03/26 10:37:51.629365 Message latency: 1.007613375s
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:37:51.629366 Processing message for 2s...
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:37:52.623520 Finished processing message msg-46
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:37:52.623547 Processed message: ID=msg-46, Partition=45, Offset=0
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:37:52.623555 Finished processing message msg-46
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:37:52.623562 Processed message: ID=msg-46, Partition=39, Offset=1
+[INFO][ConsumerSarama-50] 2025/03/26 10:37:52.629212 Received message: ID=msg-48, Partition=47, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:37:52.629272 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=50, Topic=test-topic
+[INFO][ConsumerSarama-50] 2025/03/26 10:37:52.629285 Message latency: 1.003341209s
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:37:52.629294 Processing message for 2s...
+[INFO][ConsumerSarama-24] 2025/03/26 10:37:52.629618 Received message: ID=msg-48, Partition=41, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:37:52.629642 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=24, Topic=test-topic
+[INFO][ConsumerSarama-24] 2025/03/26 10:37:52.629646 Message latency: 1.003165s
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:37:52.629649 Processing message for 2s...
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:37:53.629633 Finished processing message msg-47
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:37:53.629701 Processed message: ID=msg-47, Partition=46, Offset=0
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:37:53.629687 Finished processing message msg-47
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:37:53.629784 Processed message: ID=msg-47, Partition=40, Offset=1
+[INFO][ConsumerSarama-7] 2025/03/26 10:37:53.634223 Received message: ID=msg-49, Partition=42, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:37:53.634264 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=7, Topic=test-topic
+[INFO][ConsumerSarama-7] 2025/03/26 10:37:53.634281 Message latency: 1.00582725s
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:37:53.634288 Processing message for 2s...
+[INFO][ConsumerSarama-23] 2025/03/26 10:37:53.634486 Received message: ID=msg-49, Partition=48, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:37:53.634491 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=23, Topic=test-topic
+[INFO][ConsumerSarama-23] 2025/03/26 10:37:53.634494 Message latency: 1.005920084s
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:37:53.634497 Processing message for 2s...
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:37:54.672877 Finished processing message msg-48
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:37:54.673072 Processed message: ID=msg-48, Partition=41, Offset=1
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:37:54.650912 Finished processing message msg-48
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:37:54.679387 Processed message: ID=msg-48, Partition=47, Offset=0
+[INFO][ConsumerSarama-20] 2025/03/26 10:37:54.835049 Received message: ID=msg-50, Partition=49, Offset=0, Size=1024 bytes
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:37:54.835100 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=20, Topic=test-topic
+[INFO][ConsumerSarama-20] 2025/03/26 10:37:54.835118 Message latency: 1.200356834s
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:37:54.835125 Processing message for 2s...
+[INFO][ConsumerSarama-1] 2025/03/26 10:37:54.843132 Received message: ID=msg-50, Partition=43, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:37:54.843160 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=1, Topic=test-topic
+[INFO][ConsumerSarama-1] 2025/03/26 10:37:54.843168 Message latency: 1.209536918s
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:37:54.843173 Processing message for 2s...
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:37:55.634342 Finished processing message msg-49
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:37:55.634384 Processed message: ID=msg-49, Partition=42, Offset=1
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:37:55.636293 Finished processing message msg-49
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:37:55.636316 Processed message: ID=msg-49, Partition=48, Offset=0
+[INFO][ConsumerSarama-48] 2025/03/26 10:37:55.826776 Received message: ID=msg-51, Partition=44, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:37:55.826828 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=48, Topic=test-topic
+[INFO][ConsumerSarama-48] 2025/03/26 10:37:55.826836 Message latency: 1.007808501s
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:37:55.826842 Processing message for 2s...
+[INFO][ConsumerSarama-43] 2025/03/26 10:37:55.831528 Received message: ID=msg-51, Partition=0, Offset=8, Size=1024 bytes
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:55.831548 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=43, Topic=test-topic
+[INFO][ConsumerSarama-43] 2025/03/26 10:37:55.831553 Message latency: 1.003215209s
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:55.831556 Processing message for 2s...
+[INFO][ConsumerSarama-37] 2025/03/26 10:37:56.829643 Received message: ID=msg-52, Partition=45, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:37:56.829656 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=37, Topic=test-topic
+[INFO][ConsumerSarama-37] 2025/03/26 10:37:56.829660 Message latency: 1.003722626s
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:37:56.829663 Processing message for 2s...
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:37:56.835572 Finished processing message msg-50
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:37:56.835613 Processed message: ID=msg-50, Partition=49, Offset=0
+[INFO][ConsumerSarama-21] 2025/03/26 10:37:56.836527 Received message: ID=msg-52, Partition=1, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:37:56.836542 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=21, Topic=test-topic
+[INFO][ConsumerSarama-21] 2025/03/26 10:37:56.836546 Message latency: 1.005832043s
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:37:56.836549 Processing message for 2s...
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:37:56.843255 Finished processing message msg-50
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:37:56.843267 Processed message: ID=msg-50, Partition=43, Offset=1
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:37:57.827991 Finished processing message msg-51
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:37:57.828158 Processed message: ID=msg-51, Partition=44, Offset=1
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:57.831629 Finished processing message msg-51
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:37:57.831647 Processed message: ID=msg-51, Partition=0, Offset=8
+[INFO][ConsumerSarama-11] 2025/03/26 10:37:57.833566 Received message: ID=msg-53, Partition=46, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:37:57.833577 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=11, Topic=test-topic
+[INFO][ConsumerSarama-11] 2025/03/26 10:37:57.833585 Message latency: 1.004490167s
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:37:57.833595 Processing message for 2s...
+[INFO][ConsumerSarama-10] 2025/03/26 10:37:57.841916 Received message: ID=msg-53, Partition=2, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:37:57.841947 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=10, Topic=test-topic
+[INFO][ConsumerSarama-10] 2025/03/26 10:37:57.841954 Message latency: 1.0062605s
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:37:57.841961 Processing message for 2s...
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:37:58.830487 Finished processing message msg-52
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:37:58.830525 Processed message: ID=msg-52, Partition=45, Offset=1
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:37:58.837358 Finished processing message msg-52
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:37:58.837379 Processed message: ID=msg-52, Partition=1, Offset=2
+[INFO][ConsumerSarama-50] 2025/03/26 10:37:58.838849 Received message: ID=msg-54, Partition=47, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:37:58.838877 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=50, Topic=test-topic
+[INFO][ConsumerSarama-50] 2025/03/26 10:37:58.838889 Message latency: 1.005216293s
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:37:58.838913 Processing message for 2s...
+[INFO][ConsumerSarama-44] 2025/03/26 10:37:58.845082 Received message: ID=msg-54, Partition=3, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:37:58.845098 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=44, Topic=test-topic
+[INFO][ConsumerSarama-44] 2025/03/26 10:37:58.845102 Message latency: 1.004257167s
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:37:58.845106 Processing message for 2s...
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:37:59.845422 Finished processing message msg-53
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:37:59.846208 Processed message: ID=msg-53, Partition=2, Offset=2
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:37:59.834936 Finished processing message msg-53
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:37:59.846463 Processed message: ID=msg-53, Partition=46, Offset=1
+[INFO][ConsumerSarama-14] 2025/03/26 10:37:59.852468 Received message: ID=msg-55, Partition=4, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:37:59.852504 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=14, Topic=test-topic
+[INFO][ConsumerSarama-14] 2025/03/26 10:37:59.852531 Message latency: 1.008120792s
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:37:59.852540 Processing message for 2s...
+[INFO][ConsumerSarama-23] 2025/03/26 10:37:59.896158 Received message: ID=msg-55, Partition=48, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:37:59.896177 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=23, Topic=test-topic
+[INFO][ConsumerSarama-23] 2025/03/26 10:37:59.896182 Message latency: 1.058161s
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:37:59.896186 Processing message for 2s...
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:00.840632 Finished processing message msg-54
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:00.840698 Processed message: ID=msg-54, Partition=47, Offset=1
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:00.846600 Finished processing message msg-54
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:00.846645 Processed message: ID=msg-54, Partition=3, Offset=2
+[INFO][ConsumerSarama-20] 2025/03/26 10:38:00.886391 Received message: ID=msg-56, Partition=49, Offset=1, Size=1024 bytes
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:00.886428 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=20, Topic=test-topic
+[INFO][ConsumerSarama-20] 2025/03/26 10:38:00.886444 Message latency: 1.007097375s
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:00.886458 Processing message for 2s...
+[INFO][ConsumerSarama-45] 2025/03/26 10:38:00.888679 Received message: ID=msg-56, Partition=5, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:00.888703 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=45, Topic=test-topic
+[INFO][ConsumerSarama-45] 2025/03/26 10:38:00.888714 Message latency: 1.008608917s
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:00.888719 Processing message for 2s...
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:01.853717 Finished processing message msg-55
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:01.853761 Processed message: ID=msg-55, Partition=4, Offset=2
+[INFO][ConsumerSarama-43] 2025/03/26 10:38:01.892726 Received message: ID=msg-57, Partition=0, Offset=9, Size=1024 bytes
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:01.892743 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=43, Topic=test-topic
+[INFO][ConsumerSarama-43] 2025/03/26 10:38:01.892753 Message latency: 1.007999417s
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:01.892757 Processing message for 2s...
+[INFO][ConsumerSarama-19] 2025/03/26 10:38:01.893396 Received message: ID=msg-57, Partition=6, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:01.893401 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=19, Topic=test-topic
+[INFO][ConsumerSarama-19] 2025/03/26 10:38:01.893402 Message latency: 1.006500625s
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:01.893404 Processing message for 2s...
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:01.896566 Finished processing message msg-55
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:01.896591 Processed message: ID=msg-55, Partition=48, Offset=1
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:02.887223 Finished processing message msg-56
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:02.887370 Processed message: ID=msg-56, Partition=49, Offset=1
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:02.889425 Finished processing message msg-56
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:02.889471 Processed message: ID=msg-56, Partition=5, Offset=2
+[INFO][ConsumerSarama-30] 2025/03/26 10:38:02.899091 Received message: ID=msg-58, Partition=7, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:02.899113 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=30, Topic=test-topic
+[INFO][ConsumerSarama-30] 2025/03/26 10:38:02.899133 Message latency: 1.010376417s
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:02.899161 Processing message for 2s...
+[INFO][ConsumerSarama-21] 2025/03/26 10:38:02.899287 Received message: ID=msg-58, Partition=1, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:02.899312 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=21, Topic=test-topic
+[INFO][ConsumerSarama-21] 2025/03/26 10:38:02.899314 Message latency: 1.010575209s
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:02.899315 Processing message for 2s...
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:03.894761 Finished processing message msg-57
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:03.894824 Processed message: ID=msg-57, Partition=6, Offset=2
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:03.894834 Finished processing message msg-57
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:03.894890 Processed message: ID=msg-57, Partition=0, Offset=9
+[INFO][ConsumerSarama-10] 2025/03/26 10:38:03.906625 Received message: ID=msg-59, Partition=2, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:03.906656 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=10, Topic=test-topic
+[INFO][ConsumerSarama-10] 2025/03/26 10:38:03.906670 Message latency: 1.009464542s
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:03.906678 Processing message for 2s...
+[INFO][ConsumerSarama-31] 2025/03/26 10:38:03.906640 Received message: ID=msg-59, Partition=8, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:03.906741 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=31, Topic=test-topic
+[INFO][ConsumerSarama-31] 2025/03/26 10:38:03.906746 Message latency: 1.009724167s
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:03.906748 Processing message for 2s...
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:04.899309 Finished processing message msg-58
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:04.899331 Processed message: ID=msg-58, Partition=7, Offset=2
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:04.899384 Finished processing message msg-58
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:04.899391 Processed message: ID=msg-58, Partition=1, Offset=3
+[INFO][ConsumerSarama-44] 2025/03/26 10:38:04.911693 Received message: ID=msg-60, Partition=3, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:04.911821 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=44, Topic=test-topic
+[INFO][ConsumerSarama-44] 2025/03/26 10:38:04.911837 Message latency: 1.00631325s
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:04.911842 Processing message for 2s...
+[INFO][ConsumerSarama-42] 2025/03/26 10:38:04.911759 Received message: ID=msg-60, Partition=9, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:04.912156 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=42, Topic=test-topic
+[INFO][ConsumerSarama-42] 2025/03/26 10:38:04.912276 Message latency: 1.006526167s
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:04.912284 Processing message for 2s...
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:05.908449 Finished processing message msg-59
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:05.908470 Processed message: ID=msg-59, Partition=8, Offset=2
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:05.908476 Finished processing message msg-59
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:05.908478 Processed message: ID=msg-59, Partition=2, Offset=3
+[INFO][ConsumerSarama-14] 2025/03/26 10:38:05.911982 Received message: ID=msg-61, Partition=4, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:05.911994 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=14, Topic=test-topic
+[INFO][ConsumerSarama-14] 2025/03/26 10:38:05.911998 Message latency: 1.004173084s
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:05.912003 Processing message for 2s...
+[INFO][ConsumerSarama-38] 2025/03/26 10:38:05.914748 Received message: ID=msg-61, Partition=10, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:05.914759 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=38, Topic=test-topic
+[INFO][ConsumerSarama-38] 2025/03/26 10:38:05.914762 Message latency: 1.002927959s
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:05.914764 Processing message for 2s...
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:06.913640 Finished processing message msg-60
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:06.913681 Processed message: ID=msg-60, Partition=9, Offset=2
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:06.913692 Finished processing message msg-60
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:06.913696 Processed message: ID=msg-60, Partition=3, Offset=3
+[INFO][ConsumerSarama-45] 2025/03/26 10:38:06.919297 Received message: ID=msg-62, Partition=5, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:06.919322 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=45, Topic=test-topic
+[INFO][ConsumerSarama-45] 2025/03/26 10:38:06.919343 Message latency: 1.0084695s
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:06.919348 Processing message for 2s...
+[INFO][ConsumerSarama-13] 2025/03/26 10:38:06.923679 Received message: ID=msg-62, Partition=11, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:38:06.923701 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=13, Topic=test-topic
+[INFO][ConsumerSarama-13] 2025/03/26 10:38:06.923710 Message latency: 1.009510792s
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:38:06.923719 Processing message for 2s...
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:07.911843 Finished processing message msg-61
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:07.911867 Processed message: ID=msg-61, Partition=4, Offset=3
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:07.914296 Finished processing message msg-61
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:07.914336 Processed message: ID=msg-61, Partition=10, Offset=2
+[INFO][ConsumerSarama-19] 2025/03/26 10:38:07.919774 Received message: ID=msg-63, Partition=6, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:07.919797 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=19, Topic=test-topic
+[INFO][ConsumerSarama-19] 2025/03/26 10:38:07.919800 Message latency: 1.002353486s
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:07.919802 Processing message for 2s...
+[INFO][ConsumerSarama-27] 2025/03/26 10:38:07.921493 Received message: ID=msg-63, Partition=12, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:38:07.921507 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=27, Topic=test-topic
+[INFO][ConsumerSarama-27] 2025/03/26 10:38:07.921510 Message latency: 1.001736903s
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:38:07.921512 Processing message for 2s...
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:08.918098 Finished processing message msg-62
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:08.918126 Processed message: ID=msg-62, Partition=5, Offset=3
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:38:08.922711 Finished processing message msg-62
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:38:08.922733 Processed message: ID=msg-62, Partition=11, Offset=2
+[INFO][ConsumerSarama-30] 2025/03/26 10:38:08.923293 Received message: ID=msg-64, Partition=7, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:08.923352 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=30, Topic=test-topic
+[INFO][ConsumerSarama-30] 2025/03/26 10:38:08.923374 Message latency: 1.004398584s
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:08.923479 Processing message for 2s...
+[INFO][ConsumerSarama-18] 2025/03/26 10:38:08.925851 Received message: ID=msg-64, Partition=13, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:38:08.925875 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=18, Topic=test-topic
+[INFO][ConsumerSarama-18] 2025/03/26 10:38:08.925882 Message latency: 1.004822708s
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:38:08.925886 Processing message for 2s...
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:09.920339 Finished processing message msg-63
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:09.920371 Processed message: ID=msg-63, Partition=6, Offset=3
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:38:09.921816 Finished processing message msg-63
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:38:09.921847 Processed message: ID=msg-63, Partition=12, Offset=2
+[INFO][ConsumerSarama-31] 2025/03/26 10:38:09.927656 Received message: ID=msg-65, Partition=8, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:09.927674 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=31, Topic=test-topic
+[INFO][ConsumerSarama-31] 2025/03/26 10:38:09.927681 Message latency: 1.005472125s
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:09.927696 Processing message for 2s...
+[INFO][ConsumerSarama-26] 2025/03/26 10:38:09.928479 Received message: ID=msg-65, Partition=14, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:38:09.928490 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=26, Topic=test-topic
+[INFO][ConsumerSarama-26] 2025/03/26 10:38:09.928492 Message latency: 1.003464959s
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:38:09.928494 Processing message for 2s...
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:10.924057 Finished processing message msg-64
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:10.924096 Processed message: ID=msg-64, Partition=7, Offset=3
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:38:10.926903 Finished processing message msg-64
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:38:10.926918 Processed message: ID=msg-64, Partition=13, Offset=2
+[INFO][ConsumerSarama-34] 2025/03/26 10:38:10.933245 Received message: ID=msg-66, Partition=15, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:38:10.933262 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=34, Topic=test-topic
+[INFO][ConsumerSarama-34] 2025/03/26 10:38:10.933275 Message latency: 1.005182417s
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:38:10.933280 Processing message for 2s...
+[INFO][ConsumerSarama-42] 2025/03/26 10:38:10.933326 Received message: ID=msg-66, Partition=9, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:10.933347 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=42, Topic=test-topic
+[INFO][ConsumerSarama-42] 2025/03/26 10:38:10.933356 Message latency: 1.0065185s
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:10.933361 Processing message for 2s...
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:38:11.928765 Finished processing message msg-65
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:38:11.928807 Processed message: ID=msg-65, Partition=14, Offset=2
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:11.928834 Finished processing message msg-65
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:11.928847 Processed message: ID=msg-65, Partition=8, Offset=3
+[INFO][ConsumerSarama-38] 2025/03/26 10:38:11.940422 Received message: ID=msg-67, Partition=10, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:11.940435 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=38, Topic=test-topic
+[INFO][ConsumerSarama-38] 2025/03/26 10:38:11.940444 Message latency: 1.007100292s
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:11.940449 Processing message for 2s...
+[INFO][ConsumerSarama-3] 2025/03/26 10:38:11.940542 Received message: ID=msg-67, Partition=16, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:38:11.940548 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=3, Topic=test-topic
+[INFO][ConsumerSarama-3] 2025/03/26 10:38:11.940551 Message latency: 1.008094459s
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:38:11.940552 Processing message for 2s...
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:38:12.934646 Finished processing message msg-66
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:38:12.934676 Processed message: ID=msg-66, Partition=15, Offset=2
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:12.934688 Finished processing message msg-66
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:12.934699 Processed message: ID=msg-66, Partition=9, Offset=3
+[INFO][ConsumerSarama-16] 2025/03/26 10:38:12.955030 Received message: ID=msg-68, Partition=17, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:38:12.955041 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=16, Topic=test-topic
+[INFO][ConsumerSarama-16] 2025/03/26 10:38:12.955045 Message latency: 1.015402751s
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:38:12.955049 Processing message for 2s...
+[INFO][ConsumerSarama-13] 2025/03/26 10:38:12.955059 Received message: ID=msg-68, Partition=11, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:38:12.955063 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=13, Topic=test-topic
+[INFO][ConsumerSarama-13] 2025/03/26 10:38:12.955064 Message latency: 1.015544959s
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:38:12.955066 Processing message for 2s...
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:38:13.942520 Finished processing message msg-67
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:38:13.942770 Processed message: ID=msg-67, Partition=16, Offset=2
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:13.942734 Finished processing message msg-67
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:13.942827 Processed message: ID=msg-67, Partition=10, Offset=3
+[INFO][ConsumerSarama-32] 2025/03/26 10:38:13.958550 Received message: ID=msg-69, Partition=18, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:38:13.958923 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=32, Topic=test-topic
+[INFO][ConsumerSarama-32] 2025/03/26 10:38:13.958946 Message latency: 1.007516001s
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:38:13.958952 Processing message for 2s...
+[INFO][ConsumerSarama-27] 2025/03/26 10:38:13.962568 Received message: ID=msg-69, Partition=12, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:38:13.962623 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=27, Topic=test-topic
+[INFO][ConsumerSarama-27] 2025/03/26 10:38:13.962628 Message latency: 1.008789875s
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:38:13.962632 Processing message for 2s...
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:38:14.956681 Finished processing message msg-68
+[DEBUG][ConsumerSarama-13] 2025/03/26 10:38:14.956704 Processed message: ID=msg-68, Partition=11, Offset=3
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:38:14.956733 Finished processing message msg-68
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:38:14.956743 Processed message: ID=msg-68, Partition=17, Offset=2
+[INFO][ConsumerSarama-12] 2025/03/26 10:38:14.958191 Received message: ID=msg-70, Partition=19, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:38:14.958209 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=12, Topic=test-topic
+[INFO][ConsumerSarama-12] 2025/03/26 10:38:14.958214 Message latency: 1.002512709s
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:38:14.958218 Processing message for 2s...
+[INFO][ConsumerSarama-18] 2025/03/26 10:38:14.962100 Received message: ID=msg-70, Partition=13, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:38:14.962136 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=18, Topic=test-topic
+[INFO][ConsumerSarama-18] 2025/03/26 10:38:14.962143 Message latency: 1.004244084s
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:38:14.962147 Processing message for 2s...
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:38:15.965894 Finished processing message msg-69
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:38:15.965933 Processed message: ID=msg-69, Partition=18, Offset=2
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:38:15.978754 Finished processing message msg-69
+[DEBUG][ConsumerSarama-27] 2025/03/26 10:38:15.980952 Processed message: ID=msg-69, Partition=12, Offset=3
+[INFO][ConsumerSarama-26] 2025/03/26 10:38:15.990810 Received message: ID=msg-71, Partition=14, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:38:15.990822 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=26, Topic=test-topic
+[INFO][ConsumerSarama-26] 2025/03/26 10:38:15.990831 Message latency: 1.030771834s
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:38:15.990836 Processing message for 2s...
+[INFO][ConsumerSarama-28] 2025/03/26 10:38:15.990843 Received message: ID=msg-71, Partition=20, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:38:15.990845 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=28, Topic=test-topic
+[INFO][ConsumerSarama-28] 2025/03/26 10:38:15.990846 Message latency: 1.033180875s
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:38:15.990847 Processing message for 2s...
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:38:16.958534 Finished processing message msg-70
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:38:16.958565 Processed message: ID=msg-70, Partition=19, Offset=2
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:38:16.963382 Finished processing message msg-70
+[DEBUG][ConsumerSarama-18] 2025/03/26 10:38:16.963397 Processed message: ID=msg-70, Partition=13, Offset=3
+[INFO][ConsumerSarama-40] 2025/03/26 10:38:17.000039 Received message: ID=msg-72, Partition=21, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:38:17.000054 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=40, Topic=test-topic
+[INFO][ConsumerSarama-40] 2025/03/26 10:38:17.000058 Message latency: 1.010057334s
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:38:17.000059 Processing message for 2s...
+[INFO][ConsumerSarama-34] 2025/03/26 10:38:17.003786 Received message: ID=msg-72, Partition=15, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:38:17.003800 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=34, Topic=test-topic
+[INFO][ConsumerSarama-34] 2025/03/26 10:38:17.003803 Message latency: 1.007996876s
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:38:17.003805 Processing message for 2s...
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:38:17.992098 Finished processing message msg-71
+[DEBUG][ConsumerSarama-26] 2025/03/26 10:38:17.992167 Processed message: ID=msg-71, Partition=14, Offset=3
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:38:17.992100 Finished processing message msg-71
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:38:17.992262 Processed message: ID=msg-71, Partition=20, Offset=2
+[INFO][ConsumerSarama-46] 2025/03/26 10:38:18.063972 Received message: ID=msg-73, Partition=22, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:38:18.065687 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=46, Topic=test-topic
+[INFO][ConsumerSarama-46] 2025/03/26 10:38:18.065711 Message latency: 1.065914292s
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:38:18.065729 Processing message for 2s...
+[INFO][ConsumerSarama-3] 2025/03/26 10:38:18.068128 Received message: ID=msg-73, Partition=16, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:38:18.068184 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=3, Topic=test-topic
+[INFO][ConsumerSarama-3] 2025/03/26 10:38:18.068193 Message latency: 1.065586459s
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:38:18.068201 Processing message for 2s...
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:38:19.001631 Finished processing message msg-72
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:38:19.001660 Processed message: ID=msg-72, Partition=21, Offset=2
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:38:19.004722 Finished processing message msg-72
+[DEBUG][ConsumerSarama-34] 2025/03/26 10:38:19.004737 Processed message: ID=msg-72, Partition=15, Offset=3
+[INFO][ConsumerSarama-33] 2025/03/26 10:38:19.068859 Received message: ID=msg-74, Partition=23, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:38:19.068893 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=33, Topic=test-topic
+[INFO][ConsumerSarama-33] 2025/03/26 10:38:19.068907 Message latency: 1.006752876s
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:38:19.068916 Processing message for 2s...
+[INFO][ConsumerSarama-16] 2025/03/26 10:38:19.071985 Received message: ID=msg-74, Partition=17, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:38:19.071996 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=16, Topic=test-topic
+[INFO][ConsumerSarama-16] 2025/03/26 10:38:19.072000 Message latency: 1.003832792s
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:38:19.072004 Processing message for 2s...
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:38:20.065953 Finished processing message msg-73
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:38:20.066001 Processed message: ID=msg-73, Partition=22, Offset=2
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:38:20.070794 Finished processing message msg-73
+[DEBUG][ConsumerSarama-3] 2025/03/26 10:38:20.070827 Processed message: ID=msg-73, Partition=16, Offset=3
+[INFO][ConsumerSarama-32] 2025/03/26 10:38:20.103501 Received message: ID=msg-75, Partition=18, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:38:20.103512 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=32, Topic=test-topic
+[INFO][ConsumerSarama-32] 2025/03/26 10:38:20.103519 Message latency: 1.030406209s
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:38:20.103523 Processing message for 2s...
+[INFO][ConsumerSarama-15] 2025/03/26 10:38:20.105640 Received message: ID=msg-75, Partition=24, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:38:20.105651 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=15, Topic=test-topic
+[INFO][ConsumerSarama-15] 2025/03/26 10:38:20.105656 Message latency: 1.038569792s
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:38:20.105665 Processing message for 2s...
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:38:21.070938 Finished processing message msg-74
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:38:21.071090 Processed message: ID=msg-74, Partition=23, Offset=2
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:38:21.072195 Finished processing message msg-74
+[DEBUG][ConsumerSarama-16] 2025/03/26 10:38:21.072233 Processed message: ID=msg-74, Partition=17, Offset=3
+[INFO][ConsumerSarama-12] 2025/03/26 10:38:21.111407 Received message: ID=msg-76, Partition=19, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:38:21.111537 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=12, Topic=test-topic
+[INFO][ConsumerSarama-12] 2025/03/26 10:38:21.111543 Message latency: 1.011258251s
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:38:21.111546 Processing message for 2s...
+[INFO][ConsumerSarama-25] 2025/03/26 10:38:21.113837 Received message: ID=msg-76, Partition=25, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:38:21.113843 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=25, Topic=test-topic
+[INFO][ConsumerSarama-25] 2025/03/26 10:38:21.113846 Message latency: 1.012049584s
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:38:21.113848 Processing message for 2s...
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:38:22.104006 Finished processing message msg-75
+[DEBUG][ConsumerSarama-32] 2025/03/26 10:38:22.104036 Processed message: ID=msg-75, Partition=18, Offset=3
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:38:22.105834 Finished processing message msg-75
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:38:22.105855 Processed message: ID=msg-75, Partition=24, Offset=2
+[INFO][ConsumerSarama-2] 2025/03/26 10:38:22.114362 Received message: ID=msg-77, Partition=26, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:38:22.114384 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=2, Topic=test-topic
+[INFO][ConsumerSarama-2] 2025/03/26 10:38:22.114392 Message latency: 1.005468542s
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:38:22.114424 Processing message for 2s...
+[INFO][ConsumerSarama-28] 2025/03/26 10:38:22.121323 Received message: ID=msg-77, Partition=20, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:38:22.121339 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=28, Topic=test-topic
+[INFO][ConsumerSarama-28] 2025/03/26 10:38:22.121346 Message latency: 1.011688042s
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:38:22.121348 Processing message for 2s...
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:38:23.112419 Finished processing message msg-76
+[DEBUG][ConsumerSarama-12] 2025/03/26 10:38:23.112472 Processed message: ID=msg-76, Partition=19, Offset=3
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:38:23.114378 Finished processing message msg-76
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:38:23.114392 Processed message: ID=msg-76, Partition=25, Offset=2
+[INFO][ConsumerSarama-40] 2025/03/26 10:38:23.123966 Received message: ID=msg-78, Partition=21, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:38:23.123997 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=40, Topic=test-topic
+[INFO][ConsumerSarama-40] 2025/03/26 10:38:23.124027 Message latency: 1.00976225s
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:38:23.124049 Processing message for 2s...
+[INFO][ConsumerSarama-39] 2025/03/26 10:38:23.124178 Received message: ID=msg-78, Partition=27, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:38:23.124236 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=39, Topic=test-topic
+[INFO][ConsumerSarama-39] 2025/03/26 10:38:23.124246 Message latency: 1.005831958s
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:38:23.124251 Processing message for 2s...
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:38:24.115875 Finished processing message msg-77
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:38:24.115927 Processed message: ID=msg-77, Partition=26, Offset=2
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:38:24.122919 Finished processing message msg-77
+[DEBUG][ConsumerSarama-28] 2025/03/26 10:38:24.122945 Processed message: ID=msg-77, Partition=20, Offset=3
+[INFO][ConsumerSarama-46] 2025/03/26 10:38:24.131160 Received message: ID=msg-79, Partition=22, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:38:24.131178 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=46, Topic=test-topic
+[INFO][ConsumerSarama-46] 2025/03/26 10:38:24.131187 Message latency: 1.008125876s
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:38:24.131195 Processing message for 2s...
+[INFO][ConsumerSarama-29] 2025/03/26 10:38:24.132932 Received message: ID=msg-79, Partition=28, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:38:24.133232 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=29, Topic=test-topic
+[INFO][ConsumerSarama-29] 2025/03/26 10:38:24.133247 Message latency: 1.010420542s
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:38:24.133252 Processing message for 2s...
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:38:25.124233 Finished processing message msg-78
+[DEBUG][ConsumerSarama-40] 2025/03/26 10:38:25.124263 Processed message: ID=msg-78, Partition=21, Offset=3
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:38:25.124437 Finished processing message msg-78
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:38:25.124447 Processed message: ID=msg-78, Partition=27, Offset=2
+[INFO][ConsumerSarama-41] 2025/03/26 10:38:25.132881 Received message: ID=msg-80, Partition=29, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:38:25.132893 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=41, Topic=test-topic
+[INFO][ConsumerSarama-41] 2025/03/26 10:38:25.132900 Message latency: 1.003496042s
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:38:25.132904 Processing message for 2s...
+[INFO][ConsumerSarama-33] 2025/03/26 10:38:25.133664 Received message: ID=msg-80, Partition=23, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:38:25.133669 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=33, Topic=test-topic
+[INFO][ConsumerSarama-33] 2025/03/26 10:38:25.133671 Message latency: 1.002840125s
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:38:25.133672 Processing message for 2s...
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:38:26.131684 Finished processing message msg-79
+[DEBUG][ConsumerSarama-46] 2025/03/26 10:38:26.131724 Processed message: ID=msg-79, Partition=22, Offset=3
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:38:26.133323 Finished processing message msg-79
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:38:26.133338 Processed message: ID=msg-79, Partition=28, Offset=2
+[INFO][ConsumerSarama-49] 2025/03/26 10:38:26.136492 Received message: ID=msg-81, Partition=30, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:38:26.136646 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=49, Topic=test-topic
+[INFO][ConsumerSarama-49] 2025/03/26 10:38:26.136663 Message latency: 1.004190542s
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:38:26.136673 Processing message for 2s...
+[INFO][ConsumerSarama-15] 2025/03/26 10:38:26.136556 Received message: ID=msg-81, Partition=24, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:38:26.136702 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=15, Topic=test-topic
+[INFO][ConsumerSarama-15] 2025/03/26 10:38:26.136706 Message latency: 1.003797667s
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:38:26.136708 Processing message for 2s...
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:38:27.133926 Finished processing message msg-80
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:38:27.133959 Processed message: ID=msg-80, Partition=29, Offset=2
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:38:27.133975 Finished processing message msg-80
+[DEBUG][ConsumerSarama-33] 2025/03/26 10:38:27.133985 Processed message: ID=msg-80, Partition=23, Offset=3
+[INFO][ConsumerSarama-4] 2025/03/26 10:38:27.140971 Received message: ID=msg-82, Partition=31, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:38:27.140992 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=4, Topic=test-topic
+[INFO][ConsumerSarama-4] 2025/03/26 10:38:27.140996 Message latency: 1.005622s
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:38:27.140999 Processing message for 2s...
+[INFO][ConsumerSarama-25] 2025/03/26 10:38:27.141344 Received message: ID=msg-82, Partition=25, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:38:27.141407 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=25, Topic=test-topic
+[INFO][ConsumerSarama-25] 2025/03/26 10:38:27.141418 Message latency: 1.005081375s
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:38:27.141421 Processing message for 2s...
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:38:28.137803 Finished processing message msg-81
+[DEBUG][ConsumerSarama-15] 2025/03/26 10:38:28.137817 Processed message: ID=msg-81, Partition=24, Offset=3
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:38:28.137824 Finished processing message msg-81
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:38:28.137831 Processed message: ID=msg-81, Partition=30, Offset=2
+[INFO][ConsumerSarama-5] 2025/03/26 10:38:28.142097 Received message: ID=msg-83, Partition=32, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:38:28.142107 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=5, Topic=test-topic
+[INFO][ConsumerSarama-5] 2025/03/26 10:38:28.142110 Message latency: 1.001563334s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:38:28.142111 Processing message for 2s...
+[INFO][ConsumerSarama-2] 2025/03/26 10:38:28.142510 Received message: ID=msg-83, Partition=26, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:38:28.142516 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=2, Topic=test-topic
+[INFO][ConsumerSarama-2] 2025/03/26 10:38:28.142517 Message latency: 1.001218709s
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:38:28.142518 Processing message for 2s...
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:38:29.141413 Finished processing message msg-82
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:38:29.141437 Processed message: ID=msg-82, Partition=31, Offset=2
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:38:29.141445 Finished processing message msg-82
+[DEBUG][ConsumerSarama-25] 2025/03/26 10:38:29.141455 Processed message: ID=msg-82, Partition=25, Offset=3
+[INFO][ConsumerSarama-39] 2025/03/26 10:38:29.150519 Received message: ID=msg-84, Partition=27, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:38:29.150533 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=39, Topic=test-topic
+[INFO][ConsumerSarama-39] 2025/03/26 10:38:29.150541 Message latency: 1.008178917s
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:38:29.150547 Processing message for 2s...
+[INFO][ConsumerSarama-35] 2025/03/26 10:38:29.155490 Received message: ID=msg-84, Partition=33, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:38:29.155526 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=35, Topic=test-topic
+[INFO][ConsumerSarama-35] 2025/03/26 10:38:29.155532 Message latency: 1.013749876s
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:38:29.155537 Processing message for 2s...
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:38:30.160530 Finished processing message msg-83
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:38:30.160764 Processed message: ID=msg-83, Partition=32, Offset=2
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:38:30.160733 Finished processing message msg-83
+[DEBUG][ConsumerSarama-2] 2025/03/26 10:38:30.160804 Processed message: ID=msg-83, Partition=26, Offset=3
+[INFO][ConsumerSarama-29] 2025/03/26 10:38:30.169392 Received message: ID=msg-85, Partition=28, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:38:30.169407 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=29, Topic=test-topic
+[INFO][ConsumerSarama-29] 2025/03/26 10:38:30.169414 Message latency: 1.018463625s
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:38:30.169429 Processing message for 2s...
+[INFO][ConsumerSarama-6] 2025/03/26 10:38:30.169476 Received message: ID=msg-85, Partition=34, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:38:30.169478 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=6, Topic=test-topic
+[INFO][ConsumerSarama-6] 2025/03/26 10:38:30.169479 Message latency: 1.014385042s
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:38:30.169480 Processing message for 2s...
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:38:31.151066 Finished processing message msg-84
+[DEBUG][ConsumerSarama-39] 2025/03/26 10:38:31.151105 Processed message: ID=msg-84, Partition=27, Offset=3
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:38:31.155752 Finished processing message msg-84
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:38:31.155774 Processed message: ID=msg-84, Partition=33, Offset=2
+[INFO][ConsumerSarama-41] 2025/03/26 10:38:31.169083 Received message: ID=msg-86, Partition=29, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:38:31.169102 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=41, Topic=test-topic
+[INFO][ConsumerSarama-41] 2025/03/26 10:38:31.169113 Message latency: 1.005195959s
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:38:31.169119 Processing message for 2s...
+[INFO][ConsumerSarama-9] 2025/03/26 10:38:31.173262 Received message: ID=msg-86, Partition=35, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:38:31.173284 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=9, Topic=test-topic
+[INFO][ConsumerSarama-9] 2025/03/26 10:38:31.173290 Message latency: 1.004237709s
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:38:31.173294 Processing message for 2s...
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:38:32.169892 Finished processing message msg-85
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:38:32.169968 Processed message: ID=msg-85, Partition=34, Offset=2
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:38:32.170007 Finished processing message msg-85
+[DEBUG][ConsumerSarama-29] 2025/03/26 10:38:32.170031 Processed message: ID=msg-85, Partition=28, Offset=3
+[INFO][ConsumerSarama-49] 2025/03/26 10:38:32.174869 Received message: ID=msg-87, Partition=30, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:38:32.174890 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=49, Topic=test-topic
+[INFO][ConsumerSarama-49] 2025/03/26 10:38:32.174896 Message latency: 1.006681292s
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:38:32.174900 Processing message for 2s...
+[INFO][ConsumerSarama-47] 2025/03/26 10:38:32.181121 Received message: ID=msg-87, Partition=36, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:38:32.181163 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=47, Topic=test-topic
+[INFO][ConsumerSarama-47] 2025/03/26 10:38:32.181170 Message latency: 1.009158917s
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:38:32.181175 Processing message for 2s...
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:38:33.170045 Finished processing message msg-86
+[DEBUG][ConsumerSarama-41] 2025/03/26 10:38:33.170094 Processed message: ID=msg-86, Partition=29, Offset=3
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:38:33.174071 Finished processing message msg-86
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:38:33.174109 Processed message: ID=msg-86, Partition=35, Offset=2
+[INFO][ConsumerSarama-4] 2025/03/26 10:38:33.194950 Received message: ID=msg-88, Partition=31, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:38:33.194965 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=4, Topic=test-topic
+[INFO][ConsumerSarama-4] 2025/03/26 10:38:33.194972 Message latency: 1.021046917s
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:38:33.194975 Processing message for 2s...
+[INFO][ConsumerSarama-36] 2025/03/26 10:38:33.195362 Received message: ID=msg-88, Partition=37, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:38:33.195365 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=36, Topic=test-topic
+[INFO][ConsumerSarama-36] 2025/03/26 10:38:33.195367 Message latency: 1.018935293s
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:38:33.195368 Processing message for 2s...
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:38:34.192250 Finished processing message msg-87
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:38:34.192305 Processed message: ID=msg-87, Partition=36, Offset=2
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:38:34.192344 Finished processing message msg-87
+[DEBUG][ConsumerSarama-49] 2025/03/26 10:38:34.192351 Processed message: ID=msg-87, Partition=30, Offset=3
+[INFO][ConsumerSarama-5] 2025/03/26 10:38:34.196821 Received message: ID=msg-89, Partition=32, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:38:34.196837 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=5, Topic=test-topic
+[INFO][ConsumerSarama-5] 2025/03/26 10:38:34.196850 Message latency: 1.009434458s
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:38:34.196855 Processing message for 2s...
+[INFO][ConsumerSarama-22] 2025/03/26 10:38:34.196924 Received message: ID=msg-89, Partition=38, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:38:34.196932 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=22, Topic=test-topic
+[INFO][ConsumerSarama-22] 2025/03/26 10:38:34.196934 Message latency: 1.008839292s
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:38:34.196935 Processing message for 2s...
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:38:35.195976 Finished processing message msg-88
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:38:35.196069 Processed message: ID=msg-88, Partition=37, Offset=2
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:38:35.196004 Finished processing message msg-88
+[DEBUG][ConsumerSarama-4] 2025/03/26 10:38:35.196162 Processed message: ID=msg-88, Partition=31, Offset=3
+[INFO][ConsumerSarama-17] 2025/03/26 10:38:35.200707 Received message: ID=msg-90, Partition=39, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:38:35.200737 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=17, Topic=test-topic
+[INFO][ConsumerSarama-17] 2025/03/26 10:38:35.200749 Message latency: 1.004497709s
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:38:35.200760 Processing message for 2s...
+[INFO][ConsumerSarama-35] 2025/03/26 10:38:35.201759 Received message: ID=msg-90, Partition=33, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:38:35.202861 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=35, Topic=test-topic
+[INFO][ConsumerSarama-35] 2025/03/26 10:38:35.202904 Message latency: 1.006652917s
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:38:35.202930 Processing message for 2s...
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:38:36.198043 Finished processing message msg-89
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:38:36.198069 Finished processing message msg-89
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:38:36.198081 Processed message: ID=msg-89, Partition=38, Offset=2
+[DEBUG][ConsumerSarama-5] 2025/03/26 10:38:36.198082 Processed message: ID=msg-89, Partition=32, Offset=3
+[INFO][ConsumerSarama-6] 2025/03/26 10:38:36.215718 Received message: ID=msg-91, Partition=34, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:38:36.215727 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=6, Topic=test-topic
+[INFO][ConsumerSarama-6] 2025/03/26 10:38:36.215731 Message latency: 1.015670709s
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:38:36.215733 Processing message for 2s...
+[INFO][ConsumerSarama-8] 2025/03/26 10:38:36.215768 Received message: ID=msg-91, Partition=40, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:38:36.215773 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=8, Topic=test-topic
+[INFO][ConsumerSarama-8] 2025/03/26 10:38:36.215775 Message latency: 1.015222875s
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:38:36.215776 Processing message for 2s...
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:38:37.203836 Finished processing message msg-90
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:38:37.203889 Processed message: ID=msg-90, Partition=39, Offset=2
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:38:37.203911 Finished processing message msg-90
+[DEBUG][ConsumerSarama-35] 2025/03/26 10:38:37.203935 Processed message: ID=msg-90, Partition=33, Offset=3
+[INFO][ConsumerSarama-24] 2025/03/26 10:38:37.220564 Received message: ID=msg-92, Partition=41, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:38:37.220589 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=24, Topic=test-topic
+[INFO][ConsumerSarama-24] 2025/03/26 10:38:37.220602 Message latency: 1.005396737s
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:38:37.220614 Processing message for 2s...
+[INFO][ConsumerSarama-9] 2025/03/26 10:38:37.220580 Received message: ID=msg-92, Partition=35, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:38:37.220630 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=9, Topic=test-topic
+[INFO][ConsumerSarama-9] 2025/03/26 10:38:37.220633 Message latency: 1.00548432s
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:38:37.220634 Processing message for 2s...
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:38:38.217843 Finished processing message msg-91
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:38:38.217885 Processed message: ID=msg-91, Partition=40, Offset=2
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:38:38.217945 Finished processing message msg-91
+[DEBUG][ConsumerSarama-6] 2025/03/26 10:38:38.217960 Processed message: ID=msg-91, Partition=34, Offset=3
+[INFO][ConsumerSarama-7] 2025/03/26 10:38:38.223557 Received message: ID=msg-93, Partition=42, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:38:38.223576 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=7, Topic=test-topic
+[INFO][ConsumerSarama-7] 2025/03/26 10:38:38.223580 Message latency: 1.003933542s
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:38:38.223584 Processing message for 2s...
+[INFO][ConsumerSarama-47] 2025/03/26 10:38:38.223589 Received message: ID=msg-93, Partition=36, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:38:38.223591 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=47, Topic=test-topic
+[INFO][ConsumerSarama-47] 2025/03/26 10:38:38.223592 Message latency: 1.003931126s
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:38:38.223593 Processing message for 2s...
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:38:39.222317 Finished processing message msg-92
+[DEBUG][ConsumerSarama-9] 2025/03/26 10:38:39.222340 Processed message: ID=msg-92, Partition=35, Offset=3
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:38:39.222355 Finished processing message msg-92
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:38:39.222361 Processed message: ID=msg-92, Partition=41, Offset=2
+[INFO][ConsumerSarama-36] 2025/03/26 10:38:39.229315 Received message: ID=msg-94, Partition=37, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:38:39.229342 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=36, Topic=test-topic
+[INFO][ConsumerSarama-36] 2025/03/26 10:38:39.229366 Message latency: 1.006348584s
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:38:39.229388 Processing message for 2s...
+[INFO][ConsumerSarama-1] 2025/03/26 10:38:39.229340 Received message: ID=msg-94, Partition=43, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:38:39.229402 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=1, Topic=test-topic
+[INFO][ConsumerSarama-1] 2025/03/26 10:38:39.229405 Message latency: 1.006597043s
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:38:39.229406 Processing message for 2s...
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:38:40.223739 Finished processing message msg-93
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:38:40.223807 Finished processing message msg-93
+[DEBUG][ConsumerSarama-47] 2025/03/26 10:38:40.223819 Processed message: ID=msg-93, Partition=36, Offset=3
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:38:40.223826 Processed message: ID=msg-93, Partition=42, Offset=2
+[INFO][ConsumerSarama-48] 2025/03/26 10:38:40.235273 Received message: ID=msg-95, Partition=44, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:38:40.235300 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=48, Topic=test-topic
+[INFO][ConsumerSarama-48] 2025/03/26 10:38:40.235306 Message latency: 1.006906292s
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:38:40.235311 Processing message for 2s...
+[INFO][ConsumerSarama-22] 2025/03/26 10:38:40.236224 Received message: ID=msg-95, Partition=38, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:38:40.236239 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=22, Topic=test-topic
+[INFO][ConsumerSarama-22] 2025/03/26 10:38:40.236243 Message latency: 1.007546167s
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:38:40.236248 Processing message for 2s...
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:38:41.229806 Finished processing message msg-94
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:38:41.229864 Finished processing message msg-94
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:38:41.229865 Processed message: ID=msg-94, Partition=43, Offset=2
+[DEBUG][ConsumerSarama-36] 2025/03/26 10:38:41.229881 Processed message: ID=msg-94, Partition=37, Offset=3
+[INFO][ConsumerSarama-37] 2025/03/26 10:38:41.240699 Received message: ID=msg-96, Partition=45, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:38:41.240717 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=37, Topic=test-topic
+[INFO][ConsumerSarama-37] 2025/03/26 10:38:41.240723 Message latency: 1.006227376s
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:38:41.240726 Processing message for 2s...
+[INFO][ConsumerSarama-17] 2025/03/26 10:38:41.242176 Received message: ID=msg-96, Partition=39, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:38:41.242212 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=17, Topic=test-topic
+[INFO][ConsumerSarama-17] 2025/03/26 10:38:41.242219 Message latency: 1.006666209s
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:38:41.242222 Processing message for 2s...
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:38:42.235686 Finished processing message msg-95
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:38:42.235711 Processed message: ID=msg-95, Partition=44, Offset=2
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:38:42.237071 Finished processing message msg-95
+[DEBUG][ConsumerSarama-22] 2025/03/26 10:38:42.237094 Processed message: ID=msg-95, Partition=38, Offset=3
+[INFO][ConsumerSarama-8] 2025/03/26 10:38:42.243027 Received message: ID=msg-97, Partition=40, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:38:42.243053 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=8, Topic=test-topic
+[INFO][ConsumerSarama-8] 2025/03/26 10:38:42.243062 Message latency: 1.002631667s
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:38:42.243069 Processing message for 2s...
+[INFO][ConsumerSarama-11] 2025/03/26 10:38:42.245037 Received message: ID=msg-97, Partition=46, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:38:42.245046 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=11, Topic=test-topic
+[INFO][ConsumerSarama-11] 2025/03/26 10:38:42.245049 Message latency: 1.005851542s
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:38:42.245051 Processing message for 2s...
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:38:43.241748 Finished processing message msg-96
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:38:43.241949 Processed message: ID=msg-96, Partition=45, Offset=2
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:38:43.242301 Finished processing message msg-96
+[DEBUG][ConsumerSarama-17] 2025/03/26 10:38:43.242314 Processed message: ID=msg-96, Partition=39, Offset=3
+[INFO][ConsumerSarama-50] 2025/03/26 10:38:43.251386 Received message: ID=msg-98, Partition=47, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:43.251420 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=50, Topic=test-topic
+[INFO][ConsumerSarama-50] 2025/03/26 10:38:43.251427 Message latency: 1.007533208s
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:43.251434 Processing message for 2s...
+[INFO][ConsumerSarama-24] 2025/03/26 10:38:43.252659 Received message: ID=msg-98, Partition=41, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:38:43.252670 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=24, Topic=test-topic
+[INFO][ConsumerSarama-24] 2025/03/26 10:38:43.252672 Message latency: 1.009969917s
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:38:43.252676 Processing message for 2s...
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:38:44.244747 Finished processing message msg-97
+[DEBUG][ConsumerSarama-8] 2025/03/26 10:38:44.244828 Processed message: ID=msg-97, Partition=40, Offset=3
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:38:44.246758 Finished processing message msg-97
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:38:44.246790 Processed message: ID=msg-97, Partition=46, Offset=2
+[INFO][ConsumerSarama-23] 2025/03/26 10:38:44.259483 Received message: ID=msg-99, Partition=48, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:44.260014 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=23, Topic=test-topic
+[INFO][ConsumerSarama-23] 2025/03/26 10:38:44.260052 Message latency: 1.006106084s
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:44.260072 Processing message for 2s...
+[INFO][ConsumerSarama-7] 2025/03/26 10:38:44.259761 Received message: ID=msg-99, Partition=42, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:38:44.260162 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=7, Topic=test-topic
+[INFO][ConsumerSarama-7] 2025/03/26 10:38:44.260192 Message latency: 1.008396417s
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:38:44.260199 Processing message for 2s...
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:45.252763 Finished processing message msg-98
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:45.252801 Processed message: ID=msg-98, Partition=47, Offset=2
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:38:45.252830 Finished processing message msg-98
+[DEBUG][ConsumerSarama-24] 2025/03/26 10:38:45.252840 Processed message: ID=msg-98, Partition=41, Offset=3
+[INFO][ConsumerSarama-20] 2025/03/26 10:38:45.287921 Received message: ID=msg-100, Partition=49, Offset=2, Size=1024 bytes
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:45.287994 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=20, Topic=test-topic
+[INFO][ConsumerSarama-20] 2025/03/26 10:38:45.288001 Message latency: 1.027325875s
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:45.288005 Processing message for 2s...
+[INFO][ConsumerSarama-1] 2025/03/26 10:38:45.288034 Received message: ID=msg-100, Partition=43, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:38:45.288047 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=1, Topic=test-topic
+[INFO][ConsumerSarama-1] 2025/03/26 10:38:45.288051 Message latency: 1.028480959s
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:38:45.288055 Processing message for 2s...
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:38:46.261545 Finished processing message msg-99
+[DEBUG][ConsumerSarama-7] 2025/03/26 10:38:46.261617 Processed message: ID=msg-99, Partition=42, Offset=3
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:46.261586 Finished processing message msg-99
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:46.261677 Processed message: ID=msg-99, Partition=48, Offset=2
+[INFO][ConsumerSarama-43] 2025/03/26 10:38:46.288918 Received message: ID=msg-101, Partition=0, Offset=10, Size=1024 bytes
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:46.289051 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=43, Topic=test-topic
+[INFO][ConsumerSarama-43] 2025/03/26 10:38:46.289066 Message latency: 1.002177251s
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:46.289080 Processing message for 2s...
+[INFO][ConsumerSarama-48] 2025/03/26 10:38:46.291878 Received message: ID=msg-101, Partition=44, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:38:46.291895 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=48, Topic=test-topic
+[INFO][ConsumerSarama-48] 2025/03/26 10:38:46.291900 Message latency: 1.004970417s
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:38:46.291902 Processing message for 2s...
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:38:47.288187 Finished processing message msg-100
+[DEBUG][ConsumerSarama-1] 2025/03/26 10:38:47.288212 Processed message: ID=msg-100, Partition=43, Offset=3
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:47.288345 Finished processing message msg-100
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:47.288361 Processed message: ID=msg-100, Partition=49, Offset=2
+[INFO][ConsumerSarama-37] 2025/03/26 10:38:47.305340 Received message: ID=msg-102, Partition=45, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:38:47.305358 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=37, Topic=test-topic
+[INFO][ConsumerSarama-37] 2025/03/26 10:38:47.305366 Message latency: 1.014526s
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:38:47.305369 Processing message for 2s...
+[INFO][ConsumerSarama-21] 2025/03/26 10:38:47.455443 Received message: ID=msg-102, Partition=1, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:47.455536 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=21, Topic=test-topic
+[INFO][ConsumerSarama-21] 2025/03/26 10:38:47.455543 Message latency: 1.167111584s
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:47.455546 Processing message for 2s...
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:48.289668 Finished processing message msg-101
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:48.289709 Processed message: ID=msg-101, Partition=0, Offset=10
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:38:48.295851 Finished processing message msg-101
+[DEBUG][ConsumerSarama-48] 2025/03/26 10:38:48.295878 Processed message: ID=msg-101, Partition=44, Offset=3
+[INFO][ConsumerSarama-11] 2025/03/26 10:38:48.308214 Received message: ID=msg-103, Partition=46, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:38:48.308931 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=11, Topic=test-topic
+[INFO][ConsumerSarama-11] 2025/03/26 10:38:48.308952 Message latency: 1.008155834s
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:38:48.308959 Processing message for 2s...
+[INFO][ConsumerSarama-10] 2025/03/26 10:38:48.463400 Received message: ID=msg-103, Partition=2, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:48.463434 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=10, Topic=test-topic
+[INFO][ConsumerSarama-10] 2025/03/26 10:38:48.463463 Message latency: 1.008588667s
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:48.463476 Processing message for 2s...
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:38:49.307925 Finished processing message msg-102
+[DEBUG][ConsumerSarama-37] 2025/03/26 10:38:49.307963 Processed message: ID=msg-102, Partition=45, Offset=3
+[INFO][ConsumerSarama-50] 2025/03/26 10:38:49.310986 Received message: ID=msg-104, Partition=47, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:49.311006 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=50, Topic=test-topic
+[INFO][ConsumerSarama-50] 2025/03/26 10:38:49.311011 Message latency: 1.003566209s
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:49.311027 Processing message for 2s...
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:49.455970 Finished processing message msg-102
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:49.456050 Processed message: ID=msg-102, Partition=1, Offset=4
+[INFO][ConsumerSarama-44] 2025/03/26 10:38:49.470400 Received message: ID=msg-104, Partition=3, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:49.470436 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=44, Topic=test-topic
+[INFO][ConsumerSarama-44] 2025/03/26 10:38:49.470444 Message latency: 1.007639708s
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:49.470449 Processing message for 2s...
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:38:50.309196 Finished processing message msg-103
+[DEBUG][ConsumerSarama-11] 2025/03/26 10:38:50.309223 Processed message: ID=msg-103, Partition=46, Offset=3
+[INFO][ConsumerSarama-23] 2025/03/26 10:38:50.313038 Received message: ID=msg-105, Partition=48, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:50.313209 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=23, Topic=test-topic
+[INFO][ConsumerSarama-23] 2025/03/26 10:38:50.313223 Message latency: 1.00297425s
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:50.313230 Processing message for 2s...
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:50.463690 Finished processing message msg-103
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:50.463718 Processed message: ID=msg-103, Partition=2, Offset=4
+[INFO][ConsumerSarama-14] 2025/03/26 10:38:50.473904 Received message: ID=msg-105, Partition=4, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:50.473921 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=14, Topic=test-topic
+[INFO][ConsumerSarama-14] 2025/03/26 10:38:50.473925 Message latency: 1.004638668s
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:50.473930 Processing message for 2s...
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:51.312107 Finished processing message msg-104
+[DEBUG][ConsumerSarama-50] 2025/03/26 10:38:51.312130 Processed message: ID=msg-104, Partition=47, Offset=3
+[INFO][ConsumerSarama-20] 2025/03/26 10:38:51.325240 Received message: ID=msg-106, Partition=49, Offset=3, Size=1024 bytes
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:51.325272 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=20, Topic=test-topic
+[INFO][ConsumerSarama-20] 2025/03/26 10:38:51.325289 Message latency: 1.013030751s
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:51.325305 Processing message for 2s...
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:51.471823 Finished processing message msg-104
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:51.471862 Processed message: ID=msg-104, Partition=3, Offset=4
+[INFO][ConsumerSarama-45] 2025/03/26 10:38:51.478817 Received message: ID=msg-106, Partition=5, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:51.478841 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=45, Topic=test-topic
+[INFO][ConsumerSarama-45] 2025/03/26 10:38:51.478853 Message latency: 1.005693251s
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:51.478858 Processing message for 2s...
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:52.313474 Finished processing message msg-105
+[DEBUG][ConsumerSarama-23] 2025/03/26 10:38:52.313746 Processed message: ID=msg-105, Partition=48, Offset=3
+[INFO][ConsumerSarama-43] 2025/03/26 10:38:52.328380 Received message: ID=msg-107, Partition=0, Offset=11, Size=1024 bytes
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:52.328422 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=43, Topic=test-topic
+[INFO][ConsumerSarama-43] 2025/03/26 10:38:52.328433 Message latency: 1.004107875s
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:52.328438 Processing message for 2s...
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:52.474619 Finished processing message msg-105
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:52.474650 Processed message: ID=msg-105, Partition=4, Offset=4
+[INFO][ConsumerSarama-19] 2025/03/26 10:38:52.484871 Received message: ID=msg-107, Partition=6, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:52.484892 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=19, Topic=test-topic
+[INFO][ConsumerSarama-19] 2025/03/26 10:38:52.484900 Message latency: 1.006853542s
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:52.484905 Processing message for 2s...
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:53.326740 Finished processing message msg-106
+[DEBUG][ConsumerSarama-20] 2025/03/26 10:38:53.326760 Processed message: ID=msg-106, Partition=49, Offset=3
+[INFO][ConsumerSarama-21] 2025/03/26 10:38:53.330895 Received message: ID=msg-108, Partition=1, Offset=5, Size=1024 bytes
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:53.330906 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=21, Topic=test-topic
+[INFO][ConsumerSarama-21] 2025/03/26 10:38:53.330911 Message latency: 1.003138042s
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:53.330924 Processing message for 2s...
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:53.479011 Finished processing message msg-106
+[DEBUG][ConsumerSarama-45] 2025/03/26 10:38:53.479040 Processed message: ID=msg-106, Partition=5, Offset=4
+[INFO][ConsumerSarama-30] 2025/03/26 10:38:53.485641 Received message: ID=msg-108, Partition=7, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:53.485667 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=30, Topic=test-topic
+[INFO][ConsumerSarama-30] 2025/03/26 10:38:53.485674 Message latency: 1.002459959s
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:53.485679 Processing message for 2s...
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:54.329274 Finished processing message msg-107
+[DEBUG][ConsumerSarama-43] 2025/03/26 10:38:54.329317 Processed message: ID=msg-107, Partition=0, Offset=11
+[INFO][ConsumerSarama-10] 2025/03/26 10:38:54.337662 Received message: ID=msg-109, Partition=2, Offset=5, Size=1024 bytes
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:54.337684 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=10, Topic=test-topic
+[INFO][ConsumerSarama-10] 2025/03/26 10:38:54.337702 Message latency: 1.007592459s
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:54.337707 Processing message for 2s...
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:54.486052 Finished processing message msg-107
+[DEBUG][ConsumerSarama-19] 2025/03/26 10:38:54.486075 Processed message: ID=msg-107, Partition=6, Offset=4
+[INFO][ConsumerSarama-31] 2025/03/26 10:38:54.489552 Received message: ID=msg-109, Partition=8, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:54.489593 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=31, Topic=test-topic
+[INFO][ConsumerSarama-31] 2025/03/26 10:38:54.489597 Message latency: 1.0044195s
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:54.489599 Processing message for 2s...
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:55.333023 Finished processing message msg-108
+[DEBUG][ConsumerSarama-21] 2025/03/26 10:38:55.333037 Processed message: ID=msg-108, Partition=1, Offset=5
+[INFO][ConsumerSarama-44] 2025/03/26 10:38:55.340552 Received message: ID=msg-110, Partition=3, Offset=5, Size=1024 bytes
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:55.340565 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=44, Topic=test-topic
+[INFO][ConsumerSarama-44] 2025/03/26 10:38:55.340568 Message latency: 1.003660667s
+[DEBUG][ConsumerSarama-44] 2025/03/26 10:38:55.340570 Processing message for 2s...
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:55.486790 Finished processing message msg-108
+[DEBUG][ConsumerSarama-30] 2025/03/26 10:38:55.486825 Processed message: ID=msg-108, Partition=7, Offset=4
+[INFO][ConsumerSarama-42] 2025/03/26 10:38:55.490947 Received message: ID=msg-110, Partition=9, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:55.490957 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=42, Topic=test-topic
+[INFO][ConsumerSarama-42] 2025/03/26 10:38:55.490960 Message latency: 1.002976792s
+[DEBUG][ConsumerSarama-42] 2025/03/26 10:38:55.490962 Processing message for 2s...
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:56.338757 Finished processing message msg-109
+[DEBUG][ConsumerSarama-10] 2025/03/26 10:38:56.338768 Processed message: ID=msg-109, Partition=2, Offset=5
+[INFO][ConsumerSarama-14] 2025/03/26 10:38:56.342503 Received message: ID=msg-111, Partition=4, Offset=5, Size=1024 bytes
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:56.342585 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=14, Topic=test-topic
+[INFO][ConsumerSarama-14] 2025/03/26 10:38:56.342596 Message latency: 1.00235125s
+[DEBUG][ConsumerSarama-14] 2025/03/26 10:38:56.342605 Processing message for 2s...
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:56.489800 Finished processing message msg-109
+[DEBUG][ConsumerSarama-31] 2025/03/26 10:38:56.489835 Processed message: ID=msg-109, Partition=8, Offset=4
+[INFO][ConsumerSarama-38] 2025/03/26 10:38:56.495153 Received message: ID=msg-111, Partition=10, Offset=4, Size=1024 bytes
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:56.495172 Consumer group details: GroupID=test-consumer-group-sarama, ConsumerID=38, Topic=test-topic
+[INFO][ConsumerSarama-38] 2025/03/26 10:38:56.495178 Message latency: 1.00458875s
+[DEBUG][ConsumerSarama-38] 2025/03/26 10:38:56.495182 Processing message for 2s...

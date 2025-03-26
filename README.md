@@ -15,18 +15,19 @@ The test architecture consists of:
 ```
 msk-delay/
 ├── cmd/
-│   ├── producer/       # Producer application
-│   └── consumer/       # Consumer application
+│   ├── producer/           # Producer application
+│   ├── consumer/           # Consumer application (using kafka-go)
+│   └── consumer-sarama/    # Consumer application (using Sarama)
 ├── pkg/
-│   ├── config/         # Configuration handling
-│   ├── kafka/          # Kafka client implementations
-│   └── logger/         # Logging utilities
+│   ├── config/             # Configuration handling
+│   ├── kafka/              # Kafka client implementations
+│   └── logger/             # Logging utilities
 ├── conf/
-│   ├── dev/            # Development environment configuration
-│   └── prod/           # Production environment configuration
+│   ├── dev/                # Development environment configuration
+│   └── prod/               # Production environment configuration
 ├── infrastructure/
-│   └── cdk/            # AWS CDK deployment code
-└── docker-compose.yml  # Local development environment
+│   └── cdk/                # AWS CDK deployment code
+└── docker-compose.yml      # Local development environment
 ```
 
 ## Development Environment
@@ -34,7 +35,7 @@ msk-delay/
 The development environment uses Docker Compose to run:
 - 3 Kafka brokers
 - 1 Zookeeper instance
-- Producer and consumer applications
+- Producer and consumer applications (both kafka-go and Sarama implementations)
 
 ### Running Locally
 
@@ -47,6 +48,10 @@ bash topic-init.sh
 
 # View logs
 docker-compose logs -f
+
+# View specific consumer logs
+docker-compose logs -f consumer
+docker-compose logs -f consumer-sarama
 
 # Stop the environment
 docker-compose down

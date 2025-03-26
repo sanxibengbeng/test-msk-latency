@@ -1,0 +1,40 @@
+FROM golang:1.22-alpine AS builder
+
+WORKDIR /build
+
+# Set environment variables for Go modules
+ENV GOPROXY=https://goproxy.cn,direct
+ENV GO111MODULE=on
+ENV GOSUMDB=off
+
+# Install git
+RUN apk add --no-cache git
+
+# Copy go.mod and go.sum files
+COPY go.mod go.sum* go.work* ./
+
+# Copy source code
+COPY . .
+
+# Download dependencies
+RUN go mod download -x
+
+# Get all dependencies and update go.sum
+RUN go mod tidy
+
+# Build the application
+RUN CGO_ENABLED=0 GOOS=linux go build -o consumer-sarama ./cmd/consumer-sarama
+
+# Create a minimal production image
+FROM alpine:latest
+
+WORKDIR /app
+
+# Copy the binary from the builder stage
+COPY --from=builder /build/consumer-sarama /app/consumer-sarama
+
+# Create directory for configuration
+RUN mkdir -p /app/conf
+
+# Set the entrypoint
+ENTRYPOINT ["/app/consumer-sarama", "-env", "dev"]

@@ -174,6 +174,24 @@ services:
       - ./conf:/app/conf
     ports:
       - "8083:8080"
+      
+  consumer-sarama:
+    build:
+      context: .
+      dockerfile: Dockerfile.consumer-sarama
+    container_name: kafka-consumer-sarama
+    depends_on:
+      - kafka1
+      - kafka2
+      - kafka3
+      - producer
+    environment:
+      - ENV=dev
+    restart: on-failure
+    volumes:
+      - ./conf:/app/conf
+    ports:
+      - "8084:8080"
 
   prometheus:
     image: prom/prometheus:latest
