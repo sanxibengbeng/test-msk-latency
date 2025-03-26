@@ -25,10 +25,17 @@ type Consumer struct {
 func NewConsumer(cfg *config.KafkaConfig, id int) *Consumer {
 	// Set default rebalance timeout to 5 seconds
 	rebalanceTimeout := 5 * time.Second
+	// 静态id
+	dialer := &kafka.Dialer{
+		Timeout:   10 * time.Second,
+		DualStack: true,
+		ClientID:  fmt.Sprintf("consumer-id-%d", id), // 使用固定的客户端ID
+	}
 
 	reader := kafka.NewReader(kafka.ReaderConfig{
 		Brokers: cfg.Brokers,
 		Topic:   cfg.Topic,
+		Dialer:  dialer,
 		GroupID: cfg.ConsumerGroup,
 		// MinBytes:    5e3,  // 5KB
 		// MaxBytes:    5e6,  // 5MB
