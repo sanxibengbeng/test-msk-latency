@@ -3,17 +3,26 @@ FROM golang:1.22-alpine AS builder
 WORKDIR /build
 
 # Set environment variables for Go modules
-ENV GOPROXY=direct
+ENV GOPROXY=https://goproxy.cn,direct
 ENV GO111MODULE=on
+ENV GOSUMDB=off
+
+# Install git
+RUN apk add --no-cache git
 
 # Copy go.mod and go.sum files
-COPY go.mod go.sum* ./
+COPY go.mod go.sum* go.work* ./
 
-# Download dependencies
-RUN go mod download
 
 # Copy source code
 COPY . .
+
+# Download dependencies
+RUN go mod download -x
+
+# Get all dependencies and update go.sum
+RUN go get github.com/segmentio/kafka-go/protocol
+RUN go mod download all
 
 # Build the application
 RUN CGO_ENABLED=0 GOOS=linux go build -o producer ./cmd/producer

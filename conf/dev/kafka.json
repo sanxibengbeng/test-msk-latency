@@ -1,5 +1,5 @@
 {
-  "brokers": ["localhost:9092", "localhost:9093", "localhost:9094"],
+  "brokers": ["kafka1:29092", "kafka2:29093", "kafka3:29094"],
   "topic": "test-topic",
   "partitions": 50,
   "replication_factor": 1,
