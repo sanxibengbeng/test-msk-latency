@@ -1,0 +1,30 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'jmx-kafka'
+    static_configs:
+      - targets: ['jmx-kafka-exporter:5556']
+        labels:
+          service: 'kafka-metrics'
+
+  - job_name: 'node'
+    static_configs:
+      - targets: ['node-exporter:9100']
+        labels:
+          service: 'node-metrics'
+          
+  - job_name: 'producer'
+    metrics_path: '/metrics'
+    static_configs:
+      - targets: ['kafka-producer:8080', 'kafka-producer2:8080']
+        labels:
+          service: 'producer-metrics'
+          
+  - job_name: 'consumer'
+    metrics_path: '/metrics'
+    static_configs:
+      - targets: ['kafka-consumer:8080']
+        labels:
+          service: 'consumer-metrics'

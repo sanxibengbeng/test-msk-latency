@@ -89,10 +89,22 @@ Key configuration parameters:
 
 ## Monitoring
 
-In the production environment, the following metrics are available in CloudWatch:
-- MSK CPU utilization
-- MSK memory usage
-- MSK disk usage
-- Consumer group rebalancing events per hour
+### Development Environment
 
-A CloudWatch dashboard is automatically created to visualize these metrics.
+The development environment includes:
+- Prometheus for metrics collection
+- Grafana for visualization
+- JMX Exporter for Kafka metrics
+- Node Exporter for system metrics
+
+Access the monitoring tools:
+- Grafana: http://localhost:3000 (admin/admin)
+- Prometheus: http://localhost:9090
+
+The Grafana dashboard "MSK Delay Test Dashboard" provides comprehensive metrics for:
+- Kafka broker performance (message rates, request latency)
+- Consumer group behavior (lag, rebalancing events, processing rates)
+- Producer performance (message rates, latency)
+- System resource utilization (CPU, memory)
+
+### Production Environment

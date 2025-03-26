@@ -1,0 +1,97 @@
+---
+hostPort: kafka1:1099
+lowercaseOutputName: true
+lowercaseOutputLabelNames: true
+rules:
+  # Kafka broker metrics
+  - pattern: kafka.server<type=(.+), name=(.+), clientId=(.+), topic=(.+), partition=(.*)><>Value
+    name: kafka_server_$1_$2
+    type: GAUGE
+    labels:
+      clientId: "$3"
+      topic: "$4"
+      partition: "$5"
+  - pattern: kafka.server<type=(.+), name=(.+), clientId=(.+), brokerHost=(.+), brokerPort=(.+)><>Value
+    name: kafka_server_$1_$2
+    type: GAUGE
+    labels:
+      clientId: "$3"
+      broker: "$4:$5"
+  - pattern: kafka.server<type=(.+), name=(.+), clientId=(.+)><>Value
+    name: kafka_server_$1_$2
+    type: GAUGE
+    labels:
+      clientId: "$3"
+  - pattern: kafka.server<type=(.+), name=(.+)><>Value
+    name: kafka_server_$1_$2
+    type: GAUGE
+
+  # Consumer group metrics
+  - pattern: kafka.consumer.group<type=(.+), name=(.+), clientId=(.+), groupId=(.+), topic=(.+), partition=(.*)><>Value
+    name: kafka_consumer_group_$1_$2
+    type: GAUGE
+    labels:
+      clientId: "$3"
+      groupId: "$4"
+      topic: "$5"
+      partition: "$6"
+  - pattern: kafka.consumer.group<type=(.+), name=(.+), clientId=(.+), groupId=(.+)><>Value
+    name: kafka_consumer_group_$1_$2
+    type: GAUGE
+    labels:
+      clientId: "$3"
+      groupId: "$4"
+
+  # Producer metrics
+  - pattern: kafka.producer<type=(.+), name=(.+), clientId=(.+), topic=(.+)><>Value
+    name: kafka_producer_$1_$2
+    type: GAUGE
+    labels:
+      clientId: "$3"
+      topic: "$4"
+  - pattern: kafka.producer<type=(.+), name=(.+), clientId=(.+)><>Value
+    name: kafka_producer_$1_$2
+    type: GAUGE
+    labels:
+      clientId: "$3"
+
+  # Rebalance metrics
+  - pattern: kafka.coordinator.group<type=(.+), name=(.+)><>Value
+    name: kafka_coordinator_group_$1_$2
+    type: GAUGE
+    
+  # Additional metrics for consumer group rebalancing
+  - pattern: kafka.coordinator<type=(.+), name=(.+)><>Value
+    name: kafka_coordinator_$1_$2
+    type: GAUGE
+    
+  # Consumer group join/sync metrics
+  - pattern: kafka.server<type=GroupCoordinator, name=NumGroupsActive><>Value
+    name: kafka_server_groupcoordinator_numgroupsactive
+    type: GAUGE
+    
+  - pattern: kafka.server<type=GroupCoordinator, name=NumOffsets><>Value
+    name: kafka_server_groupcoordinator_numoffsets
+    type: GAUGE
+    
+  # Detailed consumer metrics
+  - pattern: kafka.consumer<type=(.+), client-id=(.+), node-id=(.+)><>(.+)
+    name: kafka_consumer_$1_$4
+    type: GAUGE
+    labels:
+      client_id: "$2"
+      node_id: "$3"
+      
+  # Consumer fetch metrics
+  - pattern: kafka.consumer<type=consumer-fetch-manager-metrics, client-id=(.+)><>(.+)
+    name: kafka_consumer_fetch_manager_$2
+    type: GAUGE
+    labels:
+      client_id: "$1"
+      
+  # Consumer coordinator metrics
+  - pattern: kafka.consumer<type=consumer-coordinator-metrics, client-id=(.+)><>(.+)
+    name: kafka_consumer_coordinator_$2
+    type: GAUGE
+    labels:
+      client_id: "$1"
