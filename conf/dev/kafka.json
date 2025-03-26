@@ -1,0 +1,11 @@
+{
+  "brokers": ["localhost:9092", "localhost:9093", "localhost:9094"],
+  "topic": "test-topic",
+  "partitions": 50,
+  "replication_factor": 1,
+  "consumer_group": "test-consumer-group",
+  "consumer_count": 50,
+  "message_size_kb": 1,
+  "producer_interval_ms": 100,
+  "consumer_processing_time_ms": 1500
+}
