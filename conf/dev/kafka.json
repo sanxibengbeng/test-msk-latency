@@ -6,6 +6,6 @@
   "consumer_group": "test-consumer-group",
   "consumer_count": 50,
   "message_size_kb": 1,
-  "producer_interval_ms": 100,
-  "consumer_processing_time_ms": 1500
+  "producer_interval_ms": 1,
+  "consumer_processing_time_ms": 2000
 }

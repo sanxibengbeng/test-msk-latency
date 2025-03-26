@@ -96,6 +96,21 @@ services:
     volumes:
       - ./conf:/app/conf
 
+  producer2:
+    build:
+      context: .
+      dockerfile: Dockerfile.producer
+    container_name: kafka-producer2
+    depends_on:
+      - kafka1
+      - kafka2
+      - kafka3
+    environment:
+      - ENV=dev
+    restart: on-failure
+    volumes:
+      - ./conf:/app/conf
+
   consumer:
     build:
       context: .
