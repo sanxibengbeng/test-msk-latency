@@ -42,6 +42,9 @@ The development environment uses Docker Compose to run:
 # Start the development environment
 docker-compose up -d
 
+# init test-topic 
+bash topic-init.sh
+
 # View logs
 docker-compose logs -f
 
